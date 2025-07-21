@@ -25,6 +25,11 @@ jobs:
       - name: Run script to generate RSS feed
         run: python generate_feed.py
 
+      - name: Show remote and branches (debug)
+        run: |
+          git remote -v
+          git branch -a
+
       - name: Commit and push updated rss.xml
         run: |
           git config user.name "github-actions[bot]"
@@ -33,3 +38,5 @@ jobs:
           git commit -m "🔄 Update RSS feed automatically" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push origin HEAD
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
