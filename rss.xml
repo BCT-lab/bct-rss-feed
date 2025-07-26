@@ -49,20 +49,6 @@
     </item>
     
     <item>
-        <title>La lettura non va in vacanza</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-lettura-non-va-in-vacanza</link>
-        <description>Letture ad alta voce e laboratorio creativo per bambini/e dai 3 ai 7 anni.</description>
-        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Geisser gametime. Prenditi una pausa alla Biblioteca Alberto Geisser</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-prenditi-una-pausa-alla-biblioteca-alberto-geisser</link>
-        <description>Uno spazio per staccare da tutto e "mettersi in gioco" con i giochi da tavolo</description>
-        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Cinema in famiglia</title>
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/cinema-in-famiglia-0</link>
         <description>Rassegna cinematografica all’aperto al Mausoleo della Bela Rosin.</description>
@@ -70,10 +56,24 @@
     </item>
     
     <item>
-        <title>Leggiamo e disegniamo le nostre emozioni</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/leggiamo-e-disegniamo-le-nostre-emozioni</link>
-        <description>Letture ad alta voce  e attività all’aperto per bambini e ragazzi dai 6 ai 14 anni</description>
-        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+        <title>"La biblioteca del mondo"</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/la-biblioteca-del-mondo</link>
+        <description>Proiezione del film di Davide Ferrario  (Italia, 2022). Per la rassegna "Cinema in Famiglia"</description>
+        <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Il nostro ricordo di Sepúlveda</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/il-nostro-ricordo-di-sepulveda-1</link>
+        <description>Letture spettacolarizzate in ricordo dell'autore cileno, a cinque anni dalla scomparsa</description>
+        <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Una domenica di giochi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/una-domenica-di-giochi</link>
+        <description>Apertura straordinaria domenica 27 luglio dedicata al mondo dei giochi da tavolo</description>
+        <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
