@@ -49,10 +49,17 @@
     </item>
     
     <item>
-        <title>Una domenica di giochi!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/una-domenica-di-giochi</link>
-        <description>Apertura straordinaria domenica 27 luglio dedicata al mondo dei giochi da tavolo</description>
-        <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+        <title>Il lunedì dei libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
+        <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
+        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Inglese per principianti</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-0</link>
+        <description>Corso "Beginners" di lingua inglese</description>
+        <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore</link>
         <description>Scopriamo insieme il mondo degli scacchi.</description>
         <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Laboratorio creativo di arte colorata</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-creativo-di-arte-colorata-0</link>
-        <description>Corso base di pittura con colori acrilici</description>
-        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
