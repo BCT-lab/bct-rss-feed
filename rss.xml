@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,13 +49,6 @@
     </item>
     
     <item>
-        <title>Il lunedì dei libri</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
-        <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
-        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Inglese per principianti</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-0</link>
         <description>Corso "Beginners" di lingua inglese</description>
@@ -63,17 +56,24 @@
     </item>
     
     <item>
-        <title>Tutti in coro</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/tutti-in-coro-3</link>
-        <description>Concerto a cura dell'Unione Musicale per "La Cultura dietro l'Angolo"</description>
-        <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+        <title>Il lunedì dei libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
+        <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
+        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>La mossa del lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore</link>
-        <description>Scopriamo insieme il mondo degli scacchi.</description>
-        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        <title>Lavoriamo a maglia... e non solo!!!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/lavoriamo-a-maglia-e-non-solo-1</link>
+        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
+        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Cantiamo insieme!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cantiamo-insieme</link>
+        <description>Laboratorio di canto per bambini e bambine dai 6 ai 12 anni</description>
+        <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
