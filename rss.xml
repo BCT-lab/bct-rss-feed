@@ -42,27 +42,6 @@
     </item>
     
     <item>
-        <title>Adotta un libro della tua biblioteca!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/adotta-un-libro-della-tua-biblioteca</link>
-        <description>A titolo gratuito, le BCT rendono disponibili al pubblico libri e dvd  non più inclusi nel patrimonio attivo</description>
-        <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Geisser gametime. Prenditi una pausa alla Biblioteca Alberto Geisser</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-prenditi-una-pausa-alla-biblioteca-alberto-geisser</link>
-        <description>Uno spazio per staccare da tutto e "mettersi in gioco" con i giochi da tavolo</description>
-        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>La lettura non va in vacanza</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-lettura-non-va-in-vacanza</link>
-        <description>Letture ad alta voce e laboratorio creativo per bambini/e dai 3 ai 7 anni.</description>
-        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Cinema in famiglia</title>
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/cinema-in-famiglia-0</link>
         <description>Rassegna cinematografica all’aperto al Mausoleo della Bela Rosin.</description>
@@ -74,6 +53,27 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/memorie-1</link>
         <description>Laboratorio a cura di Polo del '900 per "La Cultura dietro l'Angolo"</description>
         <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Un'estate di libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/unestate-di-libri</link>
+        <description>Un appuntamento per per neo mamme e papà per scoprire insieme i migliori libri da leggere con le loro bambine/i.</description>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>"Anywhere Anytime"</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/anywhere-anytime</link>
+        <description>Proiezione del film di Milad Tangshir (Italia, 2024). Per la rassegna "Cinema in Famiglia"</description>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Inglese per principianti</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-0</link>
+        <description>Corso "Beginners" di lingua inglese</description>
+        <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
