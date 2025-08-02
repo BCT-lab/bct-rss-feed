@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -42,38 +42,38 @@
     </item>
     
     <item>
-        <title>Cinema in famiglia</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/cinema-in-famiglia-0</link>
-        <description>Rassegna cinematografica all’aperto al Mausoleo della Bela Rosin.</description>
-        <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Memorie</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/memorie-1</link>
-        <description>Laboratorio a cura di Polo del '900 per "La Cultura dietro l'Angolo"</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Un'estate di libri</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/unestate-di-libri</link>
-        <description>Un appuntamento per per neo mamme e papà per scoprire insieme i migliori libri da leggere con le loro bambine/i.</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>"Anywhere Anytime"</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/anywhere-anytime</link>
-        <description>Proiezione del film di Milad Tangshir (Italia, 2024). Per la rassegna "Cinema in Famiglia"</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Inglese per principianti</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-0</link>
         <description>Corso "Beginners" di lingua inglese</description>
         <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Il lunedì dei libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
+        <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
+        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Parole di famiglia. Le nuove forme. Oggi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parole-di-famiglia-le-nuove-forme-oggi-1</link>
+        <description>Laboratorio a cura di Teatro Stabile di Torino per "La Cultura dietro l'Angolo"</description>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Che clima c’è?</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/che-clima-ce-0</link>
+        <description>Incontro a cura di CentroScienza. Per "La Cultura dietro l'Angolo"</description>
+        <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Le parole e le foglie</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-parole-e-le-foglie</link>
+        <description>Pagine ad alta voce con Assemblea Teatro</description>
+        <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
