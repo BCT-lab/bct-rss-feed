@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,13 +49,6 @@
     </item>
     
     <item>
-        <title>"Onde di terra"</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/onde-di-terra</link>
-        <description>Proiezione del film di Andrea Icardi (Italia, 2024). Per la rassegna "Cinema in Famiglia"</description>
-        <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Cinema in famiglia</title>
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/cinema-in-famiglia-0</link>
         <description>Rassegna cinematografica all’aperto al Mausoleo della Bela Rosin.</description>
@@ -74,6 +67,13 @@
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/the-snow-goose</link>
         <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
         <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Il lunedì dei libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
+        <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
+        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
