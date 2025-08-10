@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,20 +49,6 @@
     </item>
     
     <item>
-        <title>Cinema in famiglia</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/cinema-in-famiglia-0</link>
-        <description>Rassegna cinematografica all’aperto al Mausoleo della Bela Rosin.</description>
-        <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Storie da raccontare</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-da-raccontare-3</link>
-        <description>Letture ad alta voce per bambine/i, 3-6 anni</description>
-        <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>The Snow Goose</title>
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/the-snow-goose</link>
         <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
@@ -74,6 +60,20 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
         <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
         <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Dal Cantacronache ai cantautori: Federico Sirianni in concerto</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/dal-cantacronache-ai-cantautori-federico-sirianni-in-concerto</link>
+        <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
+        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Teresa, ovvero la sarta che voleva ricucire il firmamento…</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/teresa-ovvero-la-sarta-che-voleva-ricucire-il-firmamento</link>
+        <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
