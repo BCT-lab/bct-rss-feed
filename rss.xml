@@ -49,13 +49,6 @@
     </item>
     
     <item>
-        <title>Le donne del re</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-donne-del-re-5</link>
-        <description>Installazione di video-teatro curata da Assemblea Teatro sulla storia di Rosa Vercellana, detta Bela Rosin, e Vittorio Emanuele II</description>
-        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Mille storie in biblioteca</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/mille-storie-in-biblioteca-0</link>
         <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
@@ -63,9 +56,9 @@
     </item>
     
     <item>
-        <title>Teresa, ovvero la sarta che voleva ricucire il firmamento…</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/teresa-ovvero-la-sarta-che-voleva-ricucire-il-firmamento</link>
-        <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
+        <title>Le donne del re</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-donne-del-re-5</link>
+        <description>Installazione di video-teatro curata da Assemblea Teatro sulla storia di Rosa Vercellana, detta Bela Rosin, e Vittorio Emanuele II</description>
         <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -74,6 +67,13 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-lettura-non-va-in-vacanza</link>
         <description>Letture ad alta voce e laboratorio creativo per bambini/e dai 3 ai 7 anni.</description>
         <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Baila baila Bailenga: Trio Bailenga in concerto</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/baila-baila-bailenga-trio-bailenga-in-concerto</link>
+        <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
+        <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
