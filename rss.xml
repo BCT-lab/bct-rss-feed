@@ -49,13 +49,6 @@
     </item>
     
     <item>
-        <title>Mille storie in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/mille-storie-in-biblioteca-0</link>
-        <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
-        <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Le donne del re</title>
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-donne-del-re-5</link>
         <description>Installazione di video-teatro curata da Assemblea Teatro sulla storia di Rosa Vercellana, detta Bela Rosin, e Vittorio Emanuele II</description>
@@ -70,10 +63,17 @@
     </item>
     
     <item>
-        <title>Baila baila Bailenga: Trio Bailenga in concerto</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/baila-baila-bailenga-trio-bailenga-in-concerto</link>
+        <title>La fine del mondo: con Gianpiero Perone</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/la-fine-del-mondo-con-gianpiero-perone</link>
         <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
-        <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>90’s Generation: con Giulio Prosperi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/90s-generation-con-giulio-prosperi</link>
+        <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
+        <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
