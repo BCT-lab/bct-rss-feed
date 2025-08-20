@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,13 +49,6 @@
     </item>
     
     <item>
-        <title>Il lunedì dei libri</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
-        <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
-        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Il filo che ci unisce</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-filo-che-ci-unisce-1</link>
         <description>Laboratorio di ferri e uncinetto</description>
@@ -74,6 +67,13 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-lettura-non-va-in-vacanza</link>
         <description>Letture ad alta voce e laboratorio creativo per bambini/e dai 3 ai 7 anni.</description>
         <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>"The Whale"</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/the-whale</link>
+        <description>Proiezione del film di Darren Aronofsky (USA, 2022). Per la rassegna "Cinema in Famiglia"</description>
+        <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
