@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,13 +49,6 @@
     </item>
     
     <item>
-        <title>Storie da raccontare</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-da-raccontare-4</link>
-        <description>Letture ad alta voce per bambine/i, 3-6 anni</description>
-        <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Il lunedì dei libri</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
         <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
@@ -63,10 +56,10 @@
     </item>
     
     <item>
-        <title>Il filo che ci unisce</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-filo-che-ci-unisce-1</link>
-        <description>Laboratorio di ferri e uncinetto</description>
-        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+        <title>Click! Impara a fotografare con lo smartphone</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/click-impara-a-fotografare-con-lo-smartphone-0</link>
+        <description>Laboratorio in tre incontri a cura di CAMERA – Centro Italiano per la Fotografia,  per "La Cultura dietro l'Angolo"</description>
+        <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
@@ -74,6 +67,13 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/biblioplay-prenditi-una-pausa-alla-biblioteca-cesare-pavese-0</link>
         <description>Laboratorio di giochi di ruolo, da tavolo, librigame per i bambini/e e ragazzi/e dagli 8 ai 14 anni</description>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Mille storie in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/mille-storie-in-biblioteca-0</link>
+        <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
+        <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
