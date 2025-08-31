@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,20 +49,6 @@
     </item>
     
     <item>
-        <title>Inglese per principianti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-0</link>
-        <description>Corso "Beginners" di lingua inglese</description>
-        <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Il lunedì dei libri</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/il-lunedi-dei-libri-1</link>
-        <description>Letture per bambini e bambine alla sosta del Bibliobus 1 di via Negarville.</description>
-        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Storie Piccine</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-7</link>
         <description>Letture per bambine/i fino ai 2 anni sul Bibliobus 1 - sosta di piazza Montale</description>
@@ -73,6 +59,20 @@
         <title>La mossa del lettore</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
         <description>Scopriamo insieme il mondo degli scacchi.</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Memorie</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/memorie-0</link>
+        <description>Incontro a cura di Fondazione Polo del '900, con Paolo Calvino e Micaela Veronesi. Per "La Cultura dietro l'Angolo"</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Favolando</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-1</link>
+        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 2 - sosta di via Scialoja, Mufant</description>
         <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
