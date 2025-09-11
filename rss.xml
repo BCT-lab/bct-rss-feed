@@ -35,13 +35,6 @@
     </item>
     
     <item>
-        <title>Letteratura e Resistenza</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/letteratura-e-resistenza</link>
-        <description>Percorso di lettura</description>
-        <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Le parole e le foglie</title>
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-parole-e-le-foglie</link>
         <description>Rassegna di spettacoli e letture sceniche  al Mausoleo della Bela Rosin, a cura di Assemblea Teatro</description>
@@ -56,24 +49,31 @@
     </item>
     
     <item>
-        <title>Il filo che ci unisce</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-filo-che-ci-unisce-1</link>
-        <description>Laboratorio di ferri e uncinetto</description>
-        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+        <title>Strade sonore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/strade-sonore</link>
+        <description>Concerto per pianoforte di Nicolò Santini</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Comizi di vita</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/comizi-di-vita</link>
-        <description>Laboratori condotti dall’attore Gianluca Bottoni. Aspettando la festa  di "La Cultura dietro l'Angolo" del 25 settembre.</description>
-        <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Vuoi leggere e scrivere in italiano? Diamoci una mano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vuoi-leggere-e-scrivere-in-italiano-diamoci-una-mano-1</link>
+        <description>Per imparare a comunicare e scrivere in lingua italiana.</description>
+        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Il nostro ricordo di Sepúlveda</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/il-nostro-ricordo-di-sepulveda-2</link>
-        <description>Letture spettacolarizzate in ricordo dell'autore cileno, a cinque anni dalla scomparsa</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+        <title>C’est dingue… mais on bavarde</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-2</link>
+        <description>Incontri per chi possiede conoscenze di base della lingua francese</description>
+        <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Le rose di Atacama. Omaggio a Luis Sepúlveda e alle vittime della dittatura</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-rose-di-atacama-omaggio-a-luis-sepulveda-e-alle-vittime</link>
+        <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
