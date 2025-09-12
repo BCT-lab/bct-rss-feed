@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,20 +49,6 @@
     </item>
     
     <item>
-        <title>Strade sonore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/strade-sonore</link>
-        <description>Concerto per pianoforte di Nicolò Santini</description>
-        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Vuoi leggere e scrivere in italiano? Diamoci una mano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vuoi-leggere-e-scrivere-in-italiano-diamoci-una-mano-1</link>
-        <description>Per imparare a comunicare e scrivere in lingua italiana.</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>C’est dingue… mais on bavarde</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-2</link>
         <description>Incontri per chi possiede conoscenze di base della lingua francese</description>
@@ -70,10 +56,24 @@
     </item>
     
     <item>
-        <title>Le rose di Atacama. Omaggio a Luis Sepúlveda e alle vittime della dittatura</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-rose-di-atacama-omaggio-a-luis-sepulveda-e-alle-vittime</link>
-        <description>Per la rassegna di spettacoli "Le parole e le foglie", a cura di Assemblea Teatro</description>
-        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <title>La memoria del fare #3 – Mani in pasta nell'archeologia</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-memoria-del-fare-3-mani-in-pasta-nellarcheologia</link>
+        <description>Laboratorio a cura del Museo Egizio per "La Cultura dietro l'Angolo"</description>
+        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>"Libri insieme. Viaggio nelle nuove comunità della conoscenza"</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/libri-insieme-viaggio-nelle-nuove-comunita-della-conoscenza</link>
+        <description>Chiara Faggiolani presenta la sua ultima pubblicazione</description>
+        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Misteri sotto la Mole</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/misteri-sotto-la-mole</link>
+        <description>Storie piemontesi tra cronaca e leggenda</description>
+        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
