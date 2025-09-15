@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,13 +49,6 @@
     </item>
     
     <item>
-        <title>TO Play. Il festival del gioco</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/to-play-il-festival-del-gioco</link>
-        <description>Le Biblioteche Civiche Torinesi al TO Play di Parco Dora</description>
-        <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Naturalia Artificialia: il regno ibrido dell'arte</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/naturalia-artificialia-il-regno-ibrido-dellarte</link>
         <description>Mostra collettiva</description>
@@ -63,17 +56,24 @@
     </item>
     
     <item>
-        <title>Festa della Nascita 2025</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/festa-della-nascita-2025</link>
-        <description>Una giornata alla Reggia di Venaria per festeggiare le bambine e bambini nati nel 2024 e 2025</description>
-        <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Favolando</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-0</link>
-        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 1 (sosta di via Negarville)</description>
-        <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Il Forest Bathing</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/il-forest-bathing</link>
+        <description>Che cos'è e come si pratica</description>
+        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Un giardino per la biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-giardino-per-la-biblioteca</link>
+        <description>Insieme per una biblioteca più bella</description>
+        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
