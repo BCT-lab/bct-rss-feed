@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -56,6 +56,13 @@
     </item>
     
     <item>
+        <title>Favolando</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-0</link>
+        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 1 (sosta di via Negarville)</description>
+        <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>La mossa del lettore</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
         <description>Scopriamo insieme il mondo degli scacchi</description>
@@ -63,17 +70,10 @@
     </item>
     
     <item>
-        <title>Il Forest Bathing</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/il-forest-bathing</link>
-        <description>Che cos'è e come si pratica</description>
-        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Un giardino per la biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-giardino-per-la-biblioteca</link>
-        <description>Insieme per una biblioteca più bella</description>
-        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Lavoriamo a maglia... e non solo!!!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/lavoriamo-a-maglia-e-non-solo-2</link>
+        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
+        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
