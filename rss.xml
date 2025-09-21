@@ -21,13 +21,6 @@
     </item>
     
     <item>
-        <title>Bibliogiocando in Tour</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/bibliogiocando-in-tour</link>
-        <description>Scopri, incontra e divertiti con i giochi da tavolo</description>
-        <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Storie di viaggi e viaggiatori nella mente, nello spazio e nel tempo</title>
         <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/storie-di-viaggi-e-viaggiatori-nella-mente-nello-spazio-e-nel-0</link>
         <description>Percorso del gruppo di lettura "La Città di Eufemia" per l'anno 2025.</description>
@@ -49,30 +42,37 @@
     </item>
     
     <item>
-        <title>Letture dall'Asia</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/letture-dallasia-18</link>
-        <description>A settembre  leggiamo “La vendetta del professor Suzuki”, di Isaka Kotaro</description>
-        <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Leggiamo “La signora Meraviglia”, di Saba Anglana</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/leggiamo-la-signora-meraviglia-di-saba-anglana</link>
+        <description>Quattro incontri di lettura con Marta Ferrero e Espérance Hakuzwimana.</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Bibliogiocando in Tour al Punto di servizio bibliotecario Rita Atria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/bibliogiocando-in-tour-al-punto-di-servizio-bibliotecario-rita</link>
-        <description>Scopri, incontra e divertiti con i giochi da tavolo</description>
-        <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Favolando</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-0</link>
+        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 1 (sosta di via Negarville)</description>
+        <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>La mossa del lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
-        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <title>Storie Piccine</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-7</link>
+        <description>Letture per bambine/i fino ai 2 anni sul Bibliobus 1 - sosta di piazza Montale</description>
         <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Leggiamo “La signora Meraviglia”, di Saba Anglana</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/leggiamo-la-signora-meraviglia-di-saba-anglana</link>
-        <description>Quattro incontri di lettura con Marta Ferrero e Espérance Hakuzwimana.</description>
+        <title>Supersonix Extra</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/supersonix-extra</link>
+        <description>Appuntamento nell'ambito del festival Supersonix. A cura di Unione Musicale e Associazione Frame-Divagazioni Scientifiche</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Favolando</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-1</link>
+        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 2 - sosta di via Scialoja, Mufant</description>
         <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
