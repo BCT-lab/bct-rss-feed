@@ -42,6 +42,20 @@
     </item>
     
     <item>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Supercharged by AI</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mostre/supercharged-by-ai</link>
+        <description>Gli effetti dell'intelligenza artificiale sulle nostre vite online</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Leggiamo “La signora Meraviglia”, di Saba Anglana</title>
         <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/leggiamo-la-signora-meraviglia-di-saba-anglana</link>
         <description>Quattro incontri di lettura con Marta Ferrero e Espérance Hakuzwimana.</description>
@@ -60,20 +74,6 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-7</link>
         <description>Letture per bambine/i fino ai 2 anni sul Bibliobus 1 - sosta di piazza Montale</description>
         <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Supersonix Extra</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/supersonix-extra</link>
-        <description>Appuntamento nell'ambito del festival Supersonix. A cura di Unione Musicale e Associazione Frame-Divagazioni Scientifiche</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Favolando</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-1</link>
-        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 2 - sosta di via Scialoja, Mufant</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
