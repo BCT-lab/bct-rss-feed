@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -49,23 +49,9 @@
     </item>
     
     <item>
-        <title>Lavoriamo a maglia... e non solo!!!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/lavoriamo-a-maglia-e-non-solo-2</link>
-        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Con l'ago e con il filo</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/con-lago-e-con-il-filo-4</link>
         <description>Incontri settimanali per condividere tecniche e punti impiegati nel ricamo a mano</description>
-        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Oltre il confine</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/oltre-il-confine-9</link>
-        <description>Incontri, scoperte e avventure</description>
         <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -74,6 +60,20 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-8</link>
         <description>Letture per bambine/i fino ai 2 anni sul Bibliobus 2 - sosta di via Arquata 22</description>
         <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Lavoriamo a maglia... e non solo!!!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/lavoriamo-a-maglia-e-non-solo-2</link>
+        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
+        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Di che colore è la libertà?</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/di-che-colore-e-la-liberta</link>
+        <description>Nell'ambito della Festa di BI.TO. Letture ad alta voce dedicate a tutta la famiglia (dai 4 anni)</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
