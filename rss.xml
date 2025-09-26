@@ -28,13 +28,6 @@
     </item>
     
     <item>
-        <title>Le parole e le foglie</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/le-parole-e-le-foglie</link>
-        <description>Rassegna di spettacoli e letture sceniche  al Mausoleo della Bela Rosin, a cura di Assemblea Teatro</description>
-        <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Naturalia Artificialia: il regno ibrido dell'arte</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/naturalia-artificialia-il-regno-ibrido-dellarte</link>
         <description>Mostra collettiva</description>
@@ -49,31 +42,38 @@
     </item>
     
     <item>
-        <title>Luca Rastello</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/luca-rastello</link>
-        <description>Gruppo di lettura sul libro "Piove all'insù"</description>
-        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Dog lover's day</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/dog-lovers-day</link>
+        <description>Letture ad alta voce di racconti di Dino Buzzati</description>
+        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Narratori d'Africa</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/narratori-dafrica</link>
-        <description>Gruppo di lettura "Letture e oltre"</description>
-        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Festa di fine estate alla Biblioteca del Centro Interculturale!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/festa-di-fine-estate-alla-biblioteca-del-centro</link>
+        <description>A cura di Museo A come Ambiente e Teatro Ragazzi e Giovani per "La Cultura dietro l'Angolo"</description>
+        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Festival 8 Ambiente 2025 - Terza edizione SUSTENERGY</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/festival-8-ambiente-2025-terza-edizione-sustenergy</link>
-        <description>Cinema, arte e sostenibilità: un’edizione dedicata ai giovani con quattro serate e una mostra  per riflettere sul nostro futuro</description>
-        <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Danza Movimento Terapia</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/danza-movimento-terapia-0</link>
+        <description>Undici incontri gratuiti per persone di tutte le età</description>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
-        <title>Il filo che ci unisce</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-filo-che-ci-unisce-1</link>
-        <description>Laboratorio di ferri e uncinetto</description>
-        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+        <title>Lucento in favola</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lucento-in-favola</link>
+        <description>La storia del quartiere raccontata ai bambini</description>
+        <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Festa di fine estate alla Biblioteca Calvino</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/festa-di-fine-estate-alla-biblioteca-calvino</link>
+        <description>il programma "La Cultura Dietro l'Angolo" ti invita a celebrare insieme la fine dell'estate</description>
+        <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
