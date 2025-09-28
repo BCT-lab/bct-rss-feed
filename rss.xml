@@ -8,15 +8,15 @@
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     
@@ -42,27 +42,6 @@
     </item>
     
     <item>
-        <title>Danza Movimento Terapia</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/danza-movimento-terapia-0</link>
-        <description>Undici incontri gratuiti per persone di tutte le età</description>
-        <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Dog lover's day</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/dog-lovers-day</link>
-        <description>Letture ad alta voce di racconti di Dino Buzzati</description>
-        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Festa di fine estate alla Biblioteca del Centro Interculturale!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/festa-di-fine-estate-alla-biblioteca-del-centro</link>
-        <description>A cura di Museo A come Ambiente e Teatro Ragazzi e Giovani per "La Cultura dietro l'Angolo"</description>
-        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
         <title>Lucento in favola</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lucento-in-favola</link>
         <description>La storia del quartiere raccontata ai bambini</description>
@@ -74,6 +53,27 @@
         <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/festa-di-fine-estate-alla-biblioteca-calvino</link>
         <description>il programma "La Cultura Dietro l'Angolo" ti invita a celebrare insieme la fine dell'estate</description>
         <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Caro Mozart</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/caro-mozart</link>
+        <description>Lettura musicale delle lettere di Mozart alla cugina Anna Maria. Con la Filarmonica del Teatro Regio Torino ed Eleonora Savini</description>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Favolando</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-1</link>
+        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 2 - sosta di via Scialoja, Mufant</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     
 </channel>
