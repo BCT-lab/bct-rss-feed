@@ -25,15 +25,15 @@
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>100% PALESTINA</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
-        <description>Fotografie di Marco Monfredini</description>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Sguardi sulla Palestina: visioni e narrazioni</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/sguardi-sulla-palestina-visioni-e-narrazioni</link>
         <description>Per raccontare la Palestina attraverso molteplici codici espressivi</description>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>100% PALESTINA</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
+        <description>Fotografie di Marco Monfredini</description>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -61,21 +61,21 @@
         <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Oltre il confine</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/oltre-il-confine-10</link>
-        <description>Incontri, scoperte e avventure. A ottobre leggiamo &quot;L&#x27;arte di viaggiare&quot; di Alain de Botton (Guanda, 2020)</description>
-        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-6</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Mani in opera</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/mani-in-opera</link>
         <description>Gruppo di incontro dedicato alle attività manuali</description>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vuoi leggere e scrivere in italiano? Diamoci una mano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vuoi-leggere-e-scrivere-in-italiano-diamoci-una-mano-1</link>
+        <description>Per imparare a comunicare e scrivere in lingua italiana</description>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Senior smart</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/senior-smart</link>
+        <description>Corso dedicato ai senior per imparare a usare al meglio lo smartphone</description>
         <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
