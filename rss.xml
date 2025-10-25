@@ -8,14 +8,14 @@
 
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Scacco matto in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca-0</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacco-matto-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Ginzburg per partite e sfide entusiasmanti</description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -43,24 +43,6 @@
         <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Un aiuto per lo studio. Per la Scuola Secondaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-secondaria-0</link>
-        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>RESPƏCT: laboratorio teatrale partecipato</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/respct-laboratorio-teatrale-partecipato</link>
-        <description></description>
-        <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Aiuto compiti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/aiuto-compiti</link>
-        <description>Sostegno alle attività scolastiche presso il Punto di servizio bibliotecario Rita Atria</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Librarsi</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/librarsi</link>
         <description>Poesie dorsali illustrate da Anna Crivellaro</description>
@@ -68,15 +50,33 @@
     </item>
     <item>
         <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-5</link>
-        <description>Italiano per stranieri Biblioteca civica Alberto Geisser</description>
-        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-4</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Vieni a cantare con noi</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-cantare-con-noi-1</link>
-        <description>Incontri di avvicinamento al canto per adulti e ragazzi</description>
-        <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Laboratorio musicale</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-musicale</link>
+        <description>Appuntamento settimanale per cantare e muoversi insieme</description>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Danza Movimento Terapia</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/danza-movimento-terapia-0</link>
+        <description>Undici incontri gratuiti per persone di tutte le età</description>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Apre il nuovo Punto di servizio bibliotecario di via Negarville</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/apre-il-nuovo-punto-di-servizio-bibliotecario-di-via-negarville</link>
+        <description>Venerdì 24 ottobre inaugurazione del nuovo presidio culturale per il quartiere di Mirafiori Sud</description>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
+        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
