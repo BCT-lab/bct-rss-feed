@@ -13,15 +13,15 @@
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Sguardi sulla Palestina: visioni e narrazioni</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/sguardi-sulla-palestina-visioni-e-narrazioni</link>
-        <description>Per raccontare la Palestina attraverso molteplici codici espressivi</description>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>100% PALESTINA</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
         <description>Fotografie di Marco Monfredini</description>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sguardi sulla Palestina: visioni e narrazioni</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mostre/sguardi-sulla-palestina-visioni-e-narrazioni</link>
+        <description>Per raccontare la Palestina attraverso molteplici codici espressivi</description>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -43,21 +43,9 @@
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>&quot;Le ragazze di Pontremoli&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/le-ragazze-di-pontremoli</link>
-        <description>Presentazione del libro di Mario Abrate</description>
-        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>“Un giorno, tre autunni. Il tempo dentro il carcere”</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/un-giorno-tre-autunni-il-tempo-dentro-il-carcere</link>
-        <description>Presentazione del libro curato da  Brunella Lottero e Cinzia Morone (Ed. Paolo Sorba, 2025)</description>
-        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Are you ready?</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
-        <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
+        <title>Lunedì da favola</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lunedi-da-favola</link>
+        <description>Letture per bambini e bambine dai 3 a 10 anni</description>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -67,16 +55,28 @@
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Calvino</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-calvino-0</link>
-        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;associazione Penny Wirton Torino</description>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Torino la mia città</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-2</link>
+        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storie Piccine</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-7</link>
+        <description>Letture per bambine/i fino ai 2 anni sul Bibliobus 1 - sosta di piazza Montale</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Thematic Conversations</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations</link>
         <description>Conversazioni tematiche in lingua inglese</description>
         <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Are you ready?</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
+        <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
