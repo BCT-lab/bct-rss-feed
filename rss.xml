@@ -7,15 +7,15 @@
     <language>it-it</language>
 
     <item>
-        <title>100% PALESTINA</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
-        <description>Fotografie di Marco Monfredini</description>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Sguardi sulla Palestina: visioni e narrazioni</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/sguardi-sulla-palestina-visioni-e-narrazioni</link>
         <description>Per raccontare la Palestina attraverso molteplici codici espressivi</description>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>100% PALESTINA</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
+        <description>Fotografie di Marco Monfredini</description>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -43,24 +43,6 @@
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Mille storie in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/mille-storie-in-biblioteca-1</link>
-        <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Nietzche</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/nietzche</link>
-        <description>Leggiamo “La nascita della tragedia” (1872) e “Genealogia della morale” (1887)</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La memoria del fare</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-memoria-del-fare</link>
-        <description>Ciclo di tre incontri a cura del Museo Egizio</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Approfondiamo l’inglese e il francese</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/approfondiamo-linglese-e-il-francese-1</link>
         <description>Laboratori in lingua</description>
@@ -73,10 +55,28 @@
         <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Corso di tedesco intermedio</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/corso-di-tedesco-intermedio-1</link>
+        <description>Rivolto a chi possiede una conoscenza di base della lingua e vuole approfondirla.</description>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Scopri lo spagnolo in biblioteca</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/scopri-lo-spagnolo-in-biblioteca-0</link>
         <description>Avvicinamento alla lingua spagnola attraverso la letteratura</description>
         <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storie piccine</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-6</link>
+        <description>Incontri per bambini e bambine da 1 a 6 anni</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Senior Squadra Digital</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/senior-squadra-digital-0</link>
+        <description>Impara  ad utilizzare al meglio il tuo smartphone. Quattro incontri gratuiti alla Biblioteca Centrale</description>
+        <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
