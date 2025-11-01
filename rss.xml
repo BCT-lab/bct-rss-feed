@@ -37,33 +37,33 @@
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-4</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Danza Movimento Terapia</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/danza-movimento-terapia-0</link>
-        <description>Undici incontri gratuiti per persone di tutte le età</description>
-        <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ascolta che musica</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/ascolta-che-musica-2</link>
-        <description>Laboratorio a cura di Unione Musicale per &quot;La Cultura dietro l&#x27;Angolo&quot;</description>
-        <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Laboratorio musicale</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-musicale</link>
         <description>Appuntamento settimanale per cantare e muoversi insieme</description>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Conversare in francese</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-francese-0</link>
+        <title>English talks</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-talks-1</link>
+        <description>Incontri di conversazione dedicati a chi possiede una buona conoscenza della lingua e vuole mantenerla.</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Bonhoeffer</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-bonhoeffer-0</link>
+        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;Associazione Penny Wirton Torino</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Conversare in spagnolo</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-spagnolo-1</link>
         <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-4</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
         <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -73,10 +73,10 @@
         <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Laboratorio di maglieria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-di-maglieria-3</link>
-        <description>Per migliorare le proprie capacità nei lavori a maglia e per il piacere di lavorare in gruppo.</description>
-        <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Danza Movimento Terapia</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/danza-movimento-terapia-0</link>
+        <description>Undici incontri gratuiti per persone di tutte le età</description>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
