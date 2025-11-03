@@ -7,15 +7,15 @@
     <language>it-it</language>
 
     <item>
-        <title>Sguardi sulla Palestina: visioni e narrazioni</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/sguardi-sulla-palestina-visioni-e-narrazioni</link>
-        <description>Per raccontare la Palestina attraverso molteplici codici espressivi</description>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>100% PALESTINA</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
         <description>Fotografie di Marco Monfredini</description>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sguardi sulla Palestina: visioni e narrazioni</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mostre/sguardi-sulla-palestina-visioni-e-narrazioni</link>
+        <description>Per raccontare la Palestina attraverso molteplici codici espressivi</description>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -31,24 +31,6 @@
         <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Incontri. Passeggiando nei boschi di Mirafiori</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/incontri-passeggiando-nei-boschi-di-mirafiori</link>
-        <description>Opere di Nadia Peiretti</description>
-        <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>C’est dingue… mais on bavarde encore!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
-        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>L’Italia all&#x27;inizio del 2000</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/litalia-allinizio-del-2000</link>
-        <description>Un percorso per ricordare e comprendere i principali eventi a cura di Pier Giuseppe Quattrocchi, studioso di storia contemporanea</description>
-        <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Torino la mia città</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-2</link>
         <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
@@ -61,22 +43,40 @@
         <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Thematic Conversations</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations</link>
-        <description>Conversazioni tematiche in lingua inglese</description>
-        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Lunedì da favola</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lunedi-da-favola</link>
         <description>Letture per bambini e bambine dai 3 a 10 anni</description>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Vieni a giocare a burraco con noi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-giocare-a-burraco-con-noi</link>
+        <description>Incontri settimanali di carte e socialità</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>L’Italia all&#x27;inizio del 2000</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/litalia-allinizio-del-2000</link>
+        <description>Un percorso per ricordare e comprendere i principali eventi a cura di Pier Giuseppe Quattrocchi, studioso di storia contemporanea</description>
+        <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Traiettorie. Raccontare sé stessi attraverso il teatro</title>
         <link>https://bct.comune.torino.it/eventi-attivita/conferenze/traiettorie-raccontare-se-stessi-attraverso-il-teatro</link>
         <description>Laboratorio a cura delle Fondazione TRG - Teatro Ragazzi e Giovani</description>
         <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Calvino</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-calvino-0</link>
+        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;associazione Penny Wirton Torino</description>
+        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
