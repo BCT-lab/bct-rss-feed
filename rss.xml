@@ -7,15 +7,15 @@
     <language>it-it</language>
 
     <item>
-        <title>100% PALESTINA</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
-        <description>Fotografie di Marco Monfredini</description>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Sguardi sulla Palestina: visioni e narrazioni</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/sguardi-sulla-palestina-visioni-e-narrazioni</link>
         <description>Per raccontare la Palestina attraverso molteplici codici espressivi</description>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>100% PALESTINA</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mostre/100-palestina</link>
+        <description>Fotografie di Marco Monfredini</description>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -25,34 +25,22 @@
         <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
-        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Favolando</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-4</link>
-        <description>Letture ad alta voce per bambine e bambini da 3 a 8 anni</description>
-        <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>90 years young! Il Collegio Einaudi compie 90 anni</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/90-years-young-il-collegio-einaudi-compie-90-anni</link>
         <description>Mostra a cura di Paola Mongelli</description>
         <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Leggiamo insieme delle storie</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/leggiamo-insieme-delle-storie</link>
-        <description>Letture ad alta voce e laboratorio per bambine/i, da 3 a 6 anni</description>
-        <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Thematic Conversations</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations</link>
+        <description>Conversazioni tematiche in lingua inglese</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Laboratorio di fumetti con Emiliano Fiumara</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-di-fumetti-con-emiliano-fiumara-1</link>
-        <description>5 incontri per imparare le basi del disegno e della narrazione visiva (10-15 anni)</description>
-        <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Mindfulness</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/mindfulness</link>
+        <description>Come ridurre lo stress e ritrovare l’equilibrio nella vita quotidiana</description>
+        <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Lunedì da Favola presenta: Bombetta Book in Tour</title>
@@ -61,10 +49,10 @@
         <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Vieni a giocare a burraco con noi!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-giocare-a-burraco-con-noi</link>
-        <description>Incontri settimanali di carte e socialità</description>
-        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+        <title>C’est dingue… mais on bavarde encore!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
+        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Storie di viaggi e viaggiatori nella mente, nello spazio e nel tempo</title>
@@ -77,6 +65,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-calvino-0</link>
         <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;associazione Penny Wirton Torino</description>
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Coccole e libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/coccole-e-libri-1</link>
+        <description>Incontri per donne in gravidanza e bambine e bambini fino a 1 anno</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Are you ready?</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
+        <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
