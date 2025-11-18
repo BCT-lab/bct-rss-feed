@@ -31,10 +31,10 @@
         <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Calvino</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-calvino-0</link>
-        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;associazione Penny Wirton Torino</description>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Relazioni in armonia</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/relazioni-in-armonia</link>
+        <description>Percorso di lettura sul benessere personale condotto da Tiziana Ansaldo</description>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Vieni a giocare a burraco con noi!</title>
@@ -43,28 +43,22 @@
         <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Calvino</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-calvino-0</link>
+        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;associazione Penny Wirton Torino</description>
+        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Storie Piccine</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-7</link>
         <description>Letture per bambine/i fino ai 2 anni sul Bibliobus 1 - sosta di piazza Montale</description>
         <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Traiettorie. Raccontare sé stessi attraverso il teatro</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/traiettorie-raccontare-se-stessi-attraverso-il-teatro</link>
-        <description>Laboratorio a cura delle Fondazione TRG - Teatro Ragazzi e Giovani</description>
-        <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Spaces for Future</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/spaces-for-future</link>
-        <description>Il gioco-spettacolo che allena il pensiero critico sul futuro del pianeta</description>
-        <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La montagna nei libri: spunti di riflessione e consigli di lettura</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/la-montagna-nei-libri-spunti-di-riflessione-e-consigli-di</link>
-        <description>Incontro con Enrico Camanni</description>
-        <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+        <title>Thematic Conversations</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations</link>
+        <description>Conversazioni tematiche in lingua inglese</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Torino la mia città</title>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/coccole-e-libri-1</link>
         <description>Incontri per donne in gravidanza e bambine e bambini fino a 1 anno</description>
         <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-0</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
