@@ -37,16 +37,34 @@
         <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/geisser-gametime-0</link>
+        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
+        <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ti aspettiamo per leggere, scrivere e parlare italiano con noi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/ti-aspettiamo-per-leggere-scrivere-e-parlare-italiano-con-noi</link>
+        <description></description>
+        <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Intermediate English</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/intermediate-english-1</link>
+        <description>Corso di inglese per chi  già possiede le conoscenze di base della lingua.</description>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vieni a cantare con noi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-cantare-con-noi-1</link>
+        <description>Incontri di avvicinamento al canto per adulti e ragazzi</description>
+        <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Vuoi leggere e scrivere in italiano? Diamoci una mano</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vuoi-leggere-e-scrivere-in-italiano-diamoci-una-mano-1</link>
         <description>Per imparare a comunicare e scrivere in lingua italiana</description>
         <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Fisica di frontiera. La meccanica quantistica</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/fisica-di-frontiera-la-meccanica-quantistica</link>
-        <description>Un viaggio alla scoperta della meccanica quantistica</description>
-        <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Un bel posticino</title>
@@ -55,28 +73,10 @@
         <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Prendiamo Parola</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/prendiamo-parola</link>
-        <description>Quattro incontri sul tema delle parole e della lingua, per ragazze e ragazzi da 12 a 16 anni</description>
-        <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>&quot;Ospiti&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/ospiti</link>
-        <description>Presentazione del nuovo romanzo di Mario Capello</description>
-        <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Leggermente incontra Giulia Zavagna</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/leggermente-incontra-giulia-zavagna</link>
-        <description>La traduttrice presenta &quot;L&#x27;invincibile estate di Liliana&quot; (Sur, 2023) di Cristina Garza Rivera a Cascina Roccafranca</description>
-        <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-5</link>
-        <description>Italiano per stranieri Biblioteca civica Alberto Geisser</description>
-        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Fisica di frontiera. La meccanica quantistica</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/fisica-di-frontiera-la-meccanica-quantistica</link>
+        <description>Un viaggio alla scoperta della meccanica quantistica</description>
+        <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
