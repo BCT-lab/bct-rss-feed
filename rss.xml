@@ -25,30 +25,6 @@
         <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
-        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Leggiamo insieme delle storie</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/leggiamo-insieme-delle-storie</link>
-        <description>Letture ad alta voce e laboratorio per bambine/i, da 3 a 6 anni</description>
-        <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Favolando</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-4</link>
-        <description>Letture ad alta voce per bambine e bambini da 3 a 8 anni</description>
-        <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Natale in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/natale-in-biblioteca</link>
-        <description>Laboratorio creativo per bambini/e dai 4 anni</description>
-        <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Dal verso al colore: Leggere con gli occhi della pittura</title>
         <link>https://bct.comune.torino.it/eventi-attivita/dal-verso-al-colore-leggere-con-gli-occhi-della-pittura</link>
         <description>Otto incontri per chi desidera leggere con occhi nuovi, dipingere con la mente e ritrovare, attraverso l&#x27;arte, il piacere profondo della parola e dell&#x27;immaginazione condivisa.</description>
@@ -67,16 +43,40 @@
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Favolando</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-1</link>
+        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 2 - sosta di via Scialoja, Mufant</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>C’est dingue… mais on bavarde encore!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
+        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Are you ready?</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
         <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Favolando</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-1</link>
-        <description>Letture ad alta voce per bambini/e dai 3 anni sul Bibliobus 2 - sosta di via Scialoja, Mufant</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Senior Squadra Digital</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/senior-squadra-digital</link>
+        <description>Impara  ad utilizzare al meglio il tuo smartphone. Quattro incontri gratuiti alla Biblioteca Villa Amoretti</description>
+        <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-6</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Neurodivergenza &amp; Intersezionalità</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/neurodivergenza-intersezionalita</link>
+        <description>Una mattinata dedicata al confronto e alla condivisione dei risultati del progetto Percorsi Divergenti</description>
+        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
