@@ -7,12 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>Matematica Help Desk</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/matematica-help-desk</link>
-        <description>Sportello di aiuto per la matematica per studenti e studentesse della Scuola Secondaria di Secondo Grado</description>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Giardini Belli/Zumaglia: Facciamo un patto?</title>
         <link>https://bct.comune.torino.it/eventi-attivita/giardini-belli-zumaglia-facciamo-un-patto</link>
         <description>Costituzione gruppo attivo per la cura dei giardini Belli/Zumaglia</description>
@@ -37,46 +31,52 @@
         <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Un aiuto per lo studio. Per la Scuola Secondaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-secondaria-0</link>
+        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Bonhoeffer</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-bonhoeffer-0</link>
+        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;Associazione Penny Wirton Torino</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Conversare in spagnolo</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-spagnolo-1</link>
+        <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
         <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Inglese per principianti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-1</link>
-        <description>Corso base di lingua inglese</description>
-        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+        <title>English talks</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-talks-1</link>
+        <description>Incontri di conversazione dedicati a chi possiede una buona conoscenza della lingua e vuole mantenerla.</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Fisica di frontiera. Urania va al cinema!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/fisica-di-frontiera-urania-va-al-cinema</link>
-        <description>Ciclo di incontri su come la fisica è trattata nei film e nelle serie televisive di fantascienza</description>
-        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <title>SOS compiti - (scuola primaria)</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sos-compiti-scuola-primaria-0</link>
+        <description>Attività di supporto allo studio per bambini e bambine della scuola primaria</description>
+        <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Torino la mia città</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-2</link>
-        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
-        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-4</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Do you speak english? - Inglese per over 60</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-inglese-per-over-60-0</link>
-        <description>Corso base di lingua inglese</description>
-        <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+        <title>Conversare in francese</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-francese-0</link>
+        <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Il filo che ci unisce</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-filo-che-ci-unisce-1</link>
-        <description>Laboratorio di ferri e uncinetto</description>
-        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Meglio il libro o meglio il film?</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/meglio-il-libro-o-meglio-il-film</link>
-        <description>Il programma 2025/2026 del GdL Fermata Pozzo Strada</description>
-        <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+        <title>Crear leggendo</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/crear-leggendo-3</link>
+        <description>Lettura e laboratorio creativo per bambine e bambini dai 5 ai 11 anni</description>
+        <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
