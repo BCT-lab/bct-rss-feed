@@ -31,16 +31,10 @@
         <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Con l&#x27;ago e con il filo</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/con-lago-e-con-il-filo-4</link>
-        <description>Incontri settimanali per condividere tecniche e punti impiegati nel ricamo a mano</description>
-        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sportello digit@le</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sportello-digitle</link>
-        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+        <title>Emozioni di Natale</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mostre/emozioni-di-natale</link>
+        <description>Mostra d&#x27;arte</description>
+        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Un aiuto per lo studio. Per la Scuola Secondaria</title>
@@ -49,22 +43,16 @@
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Il tempio e il labirinto. Dalla ricerca aristotelica delle certezze, alle inquietudini dei “maestri del sospetto”</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-tempio-e-il-labirinto-dalla-ricerca-aristotelica-delle</link>
-        <description>Incontri settimanali di storia della filosofia</description>
-        <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+        <title>Impariamo a dipingere</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/impariamo-a-dipingere</link>
+        <description>Corso propedeutico alla pittura ad olio</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Il salotto della manualità</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-salotto-della-manualita-2</link>
-        <description>Uno spazio per condividere esperienze di creatività</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Do you speak English? Yes, I do</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-yes-i-do-1</link>
-        <description>Incontri di conversazione per chi conosce discretamente la lingua inglese</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Inglese per principianti</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-1</link>
+        <description>Corso base di lingua inglese</description>
+        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Fisica di frontiera. Urania va al cinema!</title>
@@ -73,10 +61,22 @@
         <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Crescere in sintonia 3-6</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/crescere-in-sintonia-3-6</link>
-        <description>Laboratorio per adulti e bambini da 3 a 6 anni, a cura della Cooperativa Progetto Tenda al Centro per le famiglie Arcobibaleno</description>
-        <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+        <title>Sportello digit@le</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sportello-digitle-0</link>
+        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
+        <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
+        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Are you ready?</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
+        <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
