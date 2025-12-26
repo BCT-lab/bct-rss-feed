@@ -43,24 +43,6 @@
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Impariamo a dipingere</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/impariamo-a-dipingere</link>
-        <description>Corso propedeutico alla pittura ad olio</description>
-        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Inglese per principianti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-1</link>
-        <description>Corso base di lingua inglese</description>
-        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Fisica di frontiera. Urania va al cinema!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/fisica-di-frontiera-urania-va-al-cinema</link>
-        <description>Ciclo di incontri su come la fisica è trattata nei film e nelle serie televisive di fantascienza</description>
-        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Sportello digit@le</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sportello-digitle-0</link>
         <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
@@ -73,10 +55,28 @@
         <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Le sedi aperte sabato 27 dicembre:</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/le-sedi-aperte-sabato-27-dicembre</link>
+        <description>Centrale, Geisser, Guidetti Serra, Utoya, Levi, Atria, Marchesa, Amoretti, Negarville, Bibliobus 2</description>
+        <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Are you ready?</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
         <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>C’est dingue… mais on bavarde encore!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
+        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Con  Ormezzano sulla luna</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/con-ormezzano-sulla-luna</link>
+        <description>Omaggio a  Gian Paolo Ormezzano a cura di Assemblea Teatro</description>
+        <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
