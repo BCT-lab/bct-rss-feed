@@ -37,12 +37,6 @@
         <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Con  Ormezzano sulla luna</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/con-ormezzano-sulla-luna</link>
-        <description>Omaggio a  Gian Paolo Ormezzano a cura di Assemblea Teatro</description>
-        <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Are you ready?</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
         <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
@@ -55,16 +49,16 @@
         <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Un aiuto per lo studio. Per la Scuola Secondaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-secondaria-0</link>
-        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Sportello digit@le</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sportello-digitle</link>
         <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
         <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un aiuto per lo studio. Per la Scuola Secondaria</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-secondaria-0</link>
+        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
+        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Il tempio e il labirinto. Dalla ricerca aristotelica delle certezze, alle inquietudini dei “maestri del sospetto”</title>
@@ -76,6 +70,12 @@
         <title>Do you speak English? Yes, I do</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-yes-i-do-1</link>
         <description>Incontri di conversazione per chi conosce discretamente la lingua inglese</description>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Mani in opera</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/mani-in-opera</link>
+        <description>Gruppo di incontro dedicato alle attività manuali</description>
         <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
