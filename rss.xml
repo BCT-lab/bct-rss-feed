@@ -61,12 +61,6 @@
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Il tempio e il labirinto. Dalla ricerca aristotelica delle certezze, alle inquietudini dei “maestri del sospetto”</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-tempio-e-il-labirinto-dalla-ricerca-aristotelica-delle</link>
-        <description>Incontri settimanali di storia della filosofia</description>
-        <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Do you speak English? Yes, I do</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-yes-i-do-1</link>
         <description>Incontri di conversazione per chi conosce discretamente la lingua inglese</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-secondaria-0</link>
         <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Il tempio e il labirinto. Dalla ricerca aristotelica delle certezze, alle inquietudini dei “maestri del sospetto”</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-tempio-e-il-labirinto-dalla-ricerca-aristotelica-delle</link>
+        <description>Incontri settimanali di storia della filosofia</description>
+        <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
