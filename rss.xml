@@ -25,30 +25,6 @@
         <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>C’est dingue… mais on bavarde encore!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
-        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Are you ready?</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
-        <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
-        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Lunedì da favola</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lunedi-da-favola</link>
-        <description>Letture per bambini e bambine dai 3 a 10 anni</description>
-        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Do you speak English? Yes, I do</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-yes-i-do-1</link>
-        <description>Incontri di conversazione per chi conosce discretamente la lingua inglese</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Un aiuto per lo studio. Per la Scuola Secondaria</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-secondaria-0</link>
         <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
@@ -61,10 +37,22 @@
         <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Corso di tedesco intermedio</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/corso-di-tedesco-intermedio-1</link>
-        <description>Rivolto a chi possiede una conoscenza di base della lingua e vuole approfondirla.</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Do you speak English? Yes, I do</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-yes-i-do-1</link>
+        <description>Incontri di conversazione per chi conosce discretamente la lingua inglese</description>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Parole di famiglia</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parole-di-famiglia</link>
+        <description>Con Elena Aimone e Lorenzo Bartoli. A cura di Teatro Stabile di Torino</description>
+        <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Nietzsche</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/nietzsche-0</link>
+        <description>Leggiamo “La nascita della tragedia” (1872) e “Genealogia della morale” (1887)</description>
+        <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Scopri lo spagnolo in biblioteca</title>
@@ -77,6 +65,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/fisica-di-frontiera-urania-va-al-cinema</link>
         <description>Ciclo di incontri su come la fisica è trattata nei film e nelle serie televisive di fantascienza</description>
         <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storie piccine</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-6</link>
+        <description>Incontri per bambini e bambine da 1 a 6 anni</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Do you speak english? - Inglese per over 60</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-inglese-per-over-60-0</link>
+        <description>Corso base di lingua inglese</description>
+        <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
