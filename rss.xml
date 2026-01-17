@@ -31,28 +31,16 @@
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Storie Favolose 2026</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-favolose-2026</link>
+        <description>Progetto di letture animate e laboratori creativi per bambini dai 3 ai 10 anni</description>
+        <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Iscrizioni alle Scuole dell’infanzia. Anno Scolastico 2026/2027</title>
         <link>https://bct.comune.torino.it/eventi-attivita/consulenze-professionali/iscrizioni-alle-scuole-dellinfanzia-anno-scolastico-2026</link>
         <description>Supporto alla compilazione della domanda di iscrizione alle scuole dell’infanzia</description>
         <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Un aiuto per lo studio. Per la Scuola Secondaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-secondaria-0</link>
-        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Storia del &#x27;900. Sei lezioni sulla Storia delle donne</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/storia-del-900-sei-lezioni-sulla-storia-delle-donne</link>
-        <description>A cura dello SPI CGIL Sezione 8 San Salvario</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Aiuto compiti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/aiuto-compiti</link>
-        <description>Sostegno alle attività scolastiche presso il Punto di servizio bibliotecario Rita Atria</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Origami</title>
@@ -61,22 +49,34 @@
         <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Sportello digit@le</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sportello-digitle-0</link>
-        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
-        <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+        <title>Storia del &#x27;900. Sei lezioni sulla Storia delle donne</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/storia-del-900-sei-lezioni-sulla-storia-delle-donne</link>
+        <description>A cura dello SPI CGIL Sezione 8 San Salvario</description>
+        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>I percorsi del cuore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/i-percorsi-del-cuore-0</link>
-        <description>Salotto letterario a cura della Professoressa  Maria Luisa Capella Cassone</description>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+        <title>SOS compiti - (scuola primaria)</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sos-compiti-scuola-primaria-0</link>
+        <description>Attività di supporto allo studio per bambini e bambine della scuola primaria</description>
+        <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Ti aspettiamo per leggere, scrivere e parlare italiano con noi!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/ti-aspettiamo-per-leggere-scrivere-e-parlare-italiano-con-noi-0</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+        <title>Laboratorio di maglieria</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-di-maglieria-4</link>
+        <description>Per migliorare le proprie capacità nei lavori a maglia e per il piacere di lavorare in gruppo.</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Bonhoeffer</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-bonhoeffer-0</link>
+        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;Associazione Penny Wirton Torino</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Conversare in francese</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-francese-1</link>
+        <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
+        <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
