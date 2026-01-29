@@ -43,12 +43,6 @@
         <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Origami</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/origami-9</link>
-        <description>L&#x27;arte di piegare la carta</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Storia del &#x27;900. Sei lezioni sulla Storia delle donne</title>
         <link>https://bct.comune.torino.it/eventi-attivita/conferenze/storia-del-900-sei-lezioni-sulla-storia-delle-donne</link>
         <description>A cura dello SPI CGIL Sezione 8 San Salvario</description>
@@ -67,16 +61,22 @@
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Mille storie in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/mille-storie-in-biblioteca-1</link>
-        <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+        <title>Aiuto compiti</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/aiuto-compiti</link>
+        <description>Sostegno alle attività scolastiche presso il Punto di servizio bibliotecario Rita Atria</description>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>¿Hablas Español?</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/hablas-espanol-2</link>
-        <description>Corso di lingua spagnola a cura della docente Sonia Cordoba</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+        <title>Intermediate English</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/intermediate-english-2</link>
+        <description>Corso di inglese per chi  già possiede le conoscenze di base della lingua.</description>
+        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Fisica di frontiera. La meccanica quantistica</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/fisica-di-frontiera-la-meccanica-quantistica</link>
+        <description>Un viaggio alla scoperta della meccanica quantistica</description>
+        <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
