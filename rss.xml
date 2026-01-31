@@ -19,12 +19,6 @@
         <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Emozioni di Natale</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/emozioni-di-natale</link>
-        <description>Mostra d&#x27;arte</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Matematica Help Desk</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/matematica-help-desk</link>
         <description>Sportello di aiuto per la matematica per studenti e studentesse della Scuola Secondaria di Secondo Grado</description>
@@ -55,28 +49,34 @@
         <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Bonhoeffer</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-bonhoeffer-0</link>
-        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;Associazione Penny Wirton Torino</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Piccole decisioni, grandi leggi: quando la fisica è quotidianità</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/piccole-decisioni-grandi-leggi-quando-la-fisica-e-quotidianita</link>
-        <description>Conferenza di Gianluca Dotti, giornalista e divulgatore scientifico, per il ciclo &quot;Giovedìscienza dietro l&#x27;angolo&quot;</description>
-        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Parliamo, leggiamo, scriviamo in Italiano</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-7</link>
         <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
         <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Penny Wirton. Scuola di Italiano alla Biblioteca Bonhoeffer</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-alla-biblioteca-bonhoeffer-0</link>
+        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;Associazione Penny Wirton Torino</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Conversare in spagnolo</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-spagnolo-2</link>
+        <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
+        <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>SOS compiti - (scuola primaria)</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sos-compiti-scuola-primaria-0</link>
         <description>Attività di supporto allo studio per bambini e bambine della scuola primaria</description>
         <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>English talks</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-talks-1</link>
+        <description>Incontri di conversazione dedicati a chi possiede una buona conoscenza della lingua e vuole mantenerla.</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
