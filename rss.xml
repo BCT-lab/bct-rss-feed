@@ -55,10 +55,16 @@
         <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>&quot;Cattiva prevenzione: i pericoli del consumismo sanitario&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/cattiva-prevenzione-i-pericoli-del-consumismo-sanitario</link>
-        <description>Roberta Villa presenta il suo libro nell’ambito del progetto &quot;Terzo Tempo&quot;</description>
-        <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+        <title>Sportello digit@le</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sportello-digitle</link>
+        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
+        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storie Piccine</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-piccine-10</link>
+        <description>Letture per bambine/i fino ai 2 anni sul Bibliobus 2 - sosta di via Arquata 22</description>
+        <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Con l&#x27;ago e con il filo</title>
@@ -71,12 +77,6 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/il-tempio-e-il-labirinto-dalla-ricerca-aristotelica-delle</link>
         <description>Incontri settimanali di storia della filosofia</description>
         <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-9</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
