@@ -19,18 +19,6 @@
         <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Biodanza</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/biodanza</link>
-        <description>Conferenza Interattiva con Rosanna Voglino e Fabrizio Melis</description>
-        <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Atomi di immaginazione. Giovani talenti creano la scienza</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/atomi-di-immaginazione-giovani-talenti-creano-la-scienza</link>
-        <description>Esposizione realizzata nell’ambito del progetto nazionale Art&amp;Science across Italy</description>
-        <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Thematic Conversations</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations-0</link>
         <description>Conversazioni tematiche in lingua inglese</description>
@@ -41,12 +29,6 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-conversations-speak-with-confidence-in-everyday-life-0</link>
         <description>Migliora il tuo inglese parlato per la vita di tutti i giorni</description>
         <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Scacchi in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
-        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>A caso ma non per caso</title>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lunedi-da-favola</link>
         <description>Letture per bambini e bambine dai 3 a 10 anni</description>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Facciamo un gioco? Dall&#x27;Idea all&#x27;App</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/facciamo-un-gioco-dallidea-allapp-0</link>
+        <description>Corso di Coding in 10 lezioni rivolto a bambine e bambini dai 9 ai 12 anni.</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vieni a giocare a burraco con noi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-giocare-a-burraco-con-noi-0</link>
+        <description>Incontri settimanali di carte e socialità</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>C’est dingue… mais on bavarde encore!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
+        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
