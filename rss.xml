@@ -7,12 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>1925-2025. Payne e Leavitt: due astronome, un centenario</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/1925-2025-payne-e-leavitt-due-astronome-un-centenario</link>
-        <description>Una mostra fotografica  per rendere omaggio al contributo di Payne e Leavitt alla conoscenza umana</description>
-        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Atomi di immaginazione. Giovani talenti creano la scienza</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/atomi-di-immaginazione-giovani-talenti-creano-la-scienza</link>
         <description>Esposizione realizzata nell’ambito del progetto nazionale Art&amp;Science across Italy</description>
@@ -43,40 +37,46 @@
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Impariamo a dipingere</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/impariamo-a-dipingere</link>
-        <description>Corso propedeutico alla pittura ad olio</description>
-        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Aiuto compiti</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/aiuto-compiti</link>
+        <description>Sostegno alle attività scolastiche presso il Punto di servizio bibliotecario Rita Atria</description>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Club di Cultura Classica - Ezio Mancino APS</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/club-di-cultura-classica-ezio-mancino-aps-0</link>
-        <description>Programma degli incontri 2026</description>
-        <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+        <title>Sportelli sociali del Gruppo abele</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/sportelli-sociali-del-gruppo-abele</link>
+        <description>Sportelli di ascolto e informazione nell’ambito del progetto &quot;Barriera Unite&quot;</description>
+        <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Torino la mia città</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-3</link>
-        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+        <title>I percorsi del cuore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/i-percorsi-del-cuore-0</link>
+        <description>Salotto letterario a cura della Professoressa  Maria Luisa Capella Cassone</description>
+        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>La mossa del lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-1</link>
-        <description>Scopriamo insieme il mondo degli scacchi</description>
-        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+        <title>Fisica di frontiera. La meccanica quantistica</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/fisica-di-frontiera-la-meccanica-quantistica</link>
+        <description>Un viaggio alla scoperta della meccanica quantistica</description>
+        <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Do you speak english? - Inglese per over 60</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/do-you-speak-english-inglese-per-over-60-0</link>
-        <description>Corso base di lingua inglese</description>
-        <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+        <title>Un Bel Posticino OFF</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/un-bel-posticino-off-2</link>
+        <description>Letture per famiglie nello spazio pubblico di Via Mascagni. A cura della Biblioteca del Centro Interculturale</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Scopri lo spagnolo in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/scopri-lo-spagnolo-in-biblioteca-0</link>
-        <description>Avvicinamento alla lingua spagnola attraverso la letteratura</description>
-        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Sportello digit@le</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sportello-digitle-1</link>
+        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
+        <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Leggiamo insieme: &quot;Il rosmarino non capisce l&#x27;inverno&quot; di Matteo Bussola</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/leggiamo-insieme-il-rosmarino-non-capisce-linverno-di-matteo</link>
+        <description>Incontro del gruppo di lettura &quot;Ritrovare le parole&quot;</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
