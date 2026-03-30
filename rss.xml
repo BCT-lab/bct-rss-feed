@@ -7,15 +7,15 @@
     <language>it-it</language>
 
     <item>
-        <title>A caso ma non per caso</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/a-caso-ma-non-per-caso</link>
-        <description>Racconti di donne in una scatola</description>
-        <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Atomi di immaginazione. Giovani talenti creano la scienza</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/atomi-di-immaginazione-giovani-talenti-creano-la-scienza</link>
         <description>Esposizione realizzata nell’ambito del progetto nazionale Art&amp;Science across Italy</description>
+        <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>A caso ma non per caso</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/a-caso-ma-non-per-caso</link>
+        <description>Racconti di donne in una scatola</description>
         <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -43,28 +43,10 @@
         <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>La tana delle storie</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-tana-delle-storie-2</link>
-        <description>Letture ad alta voce per bambine/i da 0-6 anni e per le loro famiglie</description>
-        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Thematic Conversations</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations-0</link>
-        <description>Conversazioni tematiche in lingua inglese</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Chiacchiere con… tè</title>
         <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/chiacchiere-con-te-1</link>
         <description>Appuntamenti in biblioteca rivolti a giovani under 30</description>
         <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Torino la mia città</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-3</link>
-        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Facciamo un gioco? Dall&#x27;Idea all&#x27;App</title>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-unplugged</link>
         <description>Corso di inglese - livello intermedio</description>
         <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Favolando a quattro ruote</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-a-quattro-ruote</link>
+        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
+        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Poesia in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/poesia-in-biblioteca</link>
+        <description>&quot;Incommensurabilmente&quot;: presentazione del libro di Daniele Melano</description>
+        <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Coccole e libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/coccole-e-libri-1</link>
+        <description>Incontri per donne in gravidanza e bambine e bambini fino a 1 anno</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
