@@ -7,12 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>ASAI. 30 volti per 30 anni. La mostra</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/asai-30-volti-per-30-anni-la-mostra</link>
-        <description>Per ripercorrere insieme 30 anni di cammino di ASAI</description>
-        <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Mihai Eminescu: Oltre i confini</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/mihai-eminescu-oltre-i-confini</link>
         <description>Fotografia e Identità culturale</description>
@@ -25,58 +19,64 @@
         <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Corso di inglese - livello base</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/corso-di-inglese-livello-base</link>
-        <description></description>
-        <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+        <title>Il Lago dei Cigni. Pëtr Il&#x27;ič Čajkovskij</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/il-lago-dei-cigni-petr-ilic-cajkovskij</link>
+        <description>Conferenza a cura di Roberto Chirici, pianista e musicologo</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Don&#x27;t panic, speak English!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/dont-panic-speak-english</link>
-        <description>Inglese pratico per viaggiare</description>
-        <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+        <title>Sintoniza tu español</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sintoniza-tu-espanol</link>
+        <description>Corso di spagnolo - livello intermedio</description>
+        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Inglese per principianti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-2</link>
-        <description>Corso base di lingua inglese</description>
-        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <title>La tana delle storie</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-tana-delle-storie-2</link>
+        <description>Letture ad alta voce per bambine/i da 0-6 anni e per le loro famiglie</description>
+        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Ad alta voce</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/ad-alta-voce-3</link>
-        <description>Gruppo di lettura condotto da Michele D’Amico</description>
-        <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+        <title>Scacchi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
-        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        <title>Ridisegnare la realtà: distopie e ucronie</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/ridisegnare-la-realta-distopie-e-ucronie</link>
+        <description>Percorso di lettura condotto da Antonella Bossuto</description>
+        <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Laboratorio musicale</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-musicale-0</link>
-        <description>Appuntamento settimanale per cantare e muoversi insieme</description>
-        <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+        <title>Thematic Conversations</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations-0</link>
+        <description>Conversazioni tematiche in lingua inglese</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Conversare in francese</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-francese-1</link>
-        <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
-        <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+        <title>English unplugged</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-unplugged</link>
+        <description>Corso di inglese - livello intermedio</description>
+        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Corso di spagnolo - livello base</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/corso-di-spagnolo-livello-base</link>
-        <description></description>
-        <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+        <title>Coccole e libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/coccole-e-libri-1</link>
+        <description>Incontri per donne in gravidanza e bambine e bambini fino a 1 anno</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-7</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <title>Torino la mia città</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-3</link>
+        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Are you ready?</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/are-you-ready-0</link>
+        <description>Conversazioni in lingua inglese per adulti in possesso di nozioni elementari o scolastiche</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
