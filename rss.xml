@@ -25,28 +25,16 @@
         <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/geisser-gametime-2</link>
-        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Laboratorio lettura 0-6 anni</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/laboratorio-lettura-0-6-anni</link>
         <description>Costruiamo di un gruppo di lettura per l’infanzia. A cura di Mogoa, nell’ambito del progetto Chiavi di Lettura.</description>
         <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Ruolando in biblio</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/ruolando-in-biblio-1</link>
-        <description>Giochi di ruolo in Via Negarville</description>
-        <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Potenziamento della lingua araba</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/potenziamento-della-lingua-araba</link>
-        <description>Incontri di potenziamento della lingua araba per bambine/i e ragazze/i dai 6 ai 14 anni.</description>
-        <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/geisser-gametime-2</link>
+        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Metamorfosi di carta</title>
@@ -55,28 +43,40 @@
         <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Libri che fanno sorridere</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/libri-che-fanno-sorridere</link>
-        <description>Letture ad alta voce per bambine/i e genitori</description>
-        <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Pagine nel tempo</title>
         <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/pagine-nel-tempo</link>
         <description>Club letterario per giovani adulti</description>
         <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Storie in viaggio</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/storie-in-viaggio</link>
-        <description>Racconti in lingua inglese per bambine/i e famiglie</description>
-        <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+        <title>Crear leggendo</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/crear-leggendo-3</link>
+        <description>Lettura e laboratorio creativo per bambine e bambini dai 5 ai 11 anni</description>
+        <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Sabato in famiglia: Libere per Costituzione</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sabato-in-famiglia-libere-per-costituzione</link>
-        <description>Laboratorio per bambine/i e le loro famiglie per celebrare insieme il 25 Aprile</description>
-        <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+        <title>Tutto è Opera!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/tutto-e-opera</link>
+        <description>Laboratorio per famiglie alla scoperta della magia dell’opera lirica</description>
+        <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mossa-del-lettore-1</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Potenziamento della lingua araba</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/potenziamento-della-lingua-araba</link>
+        <description>Incontri di potenziamento della lingua araba per bambine/i e ragazze/i dai 6 ai 14 anni.</description>
+        <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La domenica dei libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-domenica-dei-libri-1</link>
+        <description>Letture per bambine/i alla fermata del Bibliobus 1 di Via Vandalino / Piazzale Rostagno</description>
+        <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
