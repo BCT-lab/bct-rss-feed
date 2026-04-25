@@ -7,76 +7,76 @@
     <language>it-it</language>
 
     <item>
-        <title>Immensioni</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/immensioni</link>
-        <description>Esposizione delle opere realizzate dalle detenute</description>
-        <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>English talks</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-talks-2</link>
-        <description>Incontri di conversazione dedicati a chi possiede una buona conoscenza della lingua e vuole mantenerla.</description>
-        <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
         <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
         <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Potenziamento della lingua araba</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/potenziamento-della-lingua-araba</link>
+        <description>Incontri di potenziamento della lingua araba per bambine/i e ragazze/i dai 6 ai 14 anni.</description>
+        <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La mia storia, i miei ricordi. Una lettera per raccontarsi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mia-storia-i-miei-ricordi-una-lettera-per-raccontarsi-2</link>
+        <description>Laboratorio di scrittura condotto da Ivano Mascagna</description>
+        <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La domenica dei libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-domenica-dei-libri-1</link>
+        <description>Letture per bambine/i alla fermata del Bibliobus 1 di Via Vandalino / Piazzale Rostagno</description>
+        <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Occhi e scarabocchi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/occhi-e-scarabocchi</link>
+        <description>Laboratorio di arte urbana per Vallette e Lucento</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>C’est dingue… mais on bavarde encore!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
+        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Scacchi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>English unplugged</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-unplugged</link>
+        <description>Corso di inglese - livello intermedio</description>
+        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vieni a giocare a burraco con noi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-giocare-a-burraco-con-noi-0</link>
+        <description>Incontri settimanali di carte e socialità</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Favolando a quattro ruote</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-a-quattro-ruote-0</link>
-        <description>Letture ad alta voce di albi illustrati sul  Bibliobus (sosta di strada Altessano 43)</description>
-        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-a-quattro-ruote</link>
+        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
+        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Laboratorio di maglieria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/laboratorio-di-maglieria-5</link>
-        <description>Per migliorare le proprie capacità nei lavori a maglia e per il piacere di lavorare in gruppo.</description>
-        <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+        <title>Dal verso al colore: leggere con gli occhi della pittura</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/dal-verso-al-colore-leggere-con-gli-occhi-della-pittura</link>
+        <description>Cinque incontri per chi desidera leggere con occhi nuovi, dipingere con la mente e ritrovare, attraverso l&#x27;arte, il piacere profondo della parola e dell&#x27;immaginazione condivisa.</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Conversare in francese</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/conversare-in-francese-1</link>
-        <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
-        <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Corso di spagnolo - livello base</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/corso-di-spagnolo-livello-base</link>
-        <description></description>
-        <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/parliamo-leggiamo-scriviamo-in-italiano-7</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Penny Wirton. Scuola di Italiano in via Negarville</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/penny-wirton-scuola-di-italiano-in-via-negarville</link>
-        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;Associazione Penny Wirton Torino</description>
-        <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ad alta voce</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/ad-alta-voce-3</link>
-        <description>Gruppo di lettura condotto da Michele D’Amico</description>
-        <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Storybox - Immagini che costruiscono. Secondo incontro</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/storybox-immagini-che-costruiscono-secondo-incontro</link>
-        <description>Laboratorio a cura di Gallerie d&#x27;Italia - Torino</description>
-        <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Inglese per principianti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/inglese-per-principianti-2</link>
-        <description>Corso base di lingua inglese</description>
-        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <title>&quot;Pagine in Movimento&quot; alla Biblioteca Primo Levi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/pagine-in-movimento-alla-biblioteca-primo-levi</link>
+        <description>Gruppo di lettura a cura delle ACLI Torino in collaborazione con  BookPostino</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
