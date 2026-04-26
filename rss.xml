@@ -7,52 +7,58 @@
     <language>it-it</language>
 
     <item>
-        <title>Un aiuto per lo studio. Per la Scuola Primaria</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/un-aiuto-per-lo-studio-per-la-scuola-primaria-0</link>
-        <description>In collaborazione con l’Associazione AMECE e i volontari del progetto Senior civico.</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Potenziamento della lingua araba</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/potenziamento-della-lingua-araba</link>
-        <description>Incontri di potenziamento della lingua araba per bambine/i e ragazze/i dai 6 ai 14 anni.</description>
-        <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La mia storia, i miei ricordi. Una lettera per raccontarsi</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/la-mia-storia-i-miei-ricordi-una-lettera-per-raccontarsi-2</link>
-        <description>Laboratorio di scrittura condotto da Ivano Mascagna</description>
-        <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>La domenica dei libri</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-domenica-dei-libri-1</link>
         <description>Letture per bambine/i alla fermata del Bibliobus 1 di Via Vandalino / Piazzale Rostagno</description>
         <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Occhi e scarabocchi</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/occhi-e-scarabocchi</link>
-        <description>Laboratorio di arte urbana per Vallette e Lucento</description>
+        <title>Coccole e libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/coccole-e-libri-1</link>
+        <description>Incontri per donne in gravidanza e bambine e bambini fino a 1 anno</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lunedì da favola</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lunedi-da-favola</link>
+        <description>Letture per bambini e bambine dai 3 a 10 anni</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Thematic Conversations</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations-0</link>
+        <description>Conversazioni tematiche in lingua inglese</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La robotica di servizio: tecnologie al servizio della “Signora Maria”</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/la-robotica-di-servizio-tecnologie-al-servizio-della-signora-maria</link>
+        <description>Conferenza nell&#x27;ambito di Biennale Tecnologia 2026</description>
         <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Nel marsupio della storia&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/nel-marsupio-della-storia</link>
+        <description>Presentazione del libro di Maria Maria Abbebù Viarengo</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sintoniza tu español</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sintoniza-tu-espanol</link>
+        <description>Corso di spagnolo - livello intermedio</description>
+        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Torino la mia città</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-3</link>
+        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>C’est dingue… mais on bavarde encore!</title>
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
         <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
         <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Scacchi in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
-        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>English unplugged</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-unplugged</link>
-        <description>Corso di inglese - livello intermedio</description>
-        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Vieni a giocare a burraco con noi!</title>
@@ -67,15 +73,9 @@
         <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Dal verso al colore: leggere con gli occhi della pittura</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/dal-verso-al-colore-leggere-con-gli-occhi-della-pittura</link>
-        <description>Cinque incontri per chi desidera leggere con occhi nuovi, dipingere con la mente e ritrovare, attraverso l&#x27;arte, il piacere profondo della parola e dell&#x27;immaginazione condivisa.</description>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>&quot;Pagine in Movimento&quot; alla Biblioteca Primo Levi</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/pagine-in-movimento-alla-biblioteca-primo-levi</link>
-        <description>Gruppo di lettura a cura delle ACLI Torino in collaborazione con  BookPostino</description>
+        <title>&quot;Sette pezzi pop e tutti parlano di Bacharach&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/sette-pezzi-pop-e-tutti-parlano-di-bacharach</link>
+        <description>Nell’ambito del Torino Jazz Festival,  presentazione del libro di Biagio Bagini</description>
         <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
