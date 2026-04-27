@@ -7,10 +7,58 @@
     <language>it-it</language>
 
     <item>
-        <title>La domenica dei libri</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-domenica-dei-libri-1</link>
-        <description>Letture per bambine/i alla fermata del Bibliobus 1 di Via Vandalino / Piazzale Rostagno</description>
-        <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+        <title>Favolando a quattro ruote</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-a-quattro-ruote</link>
+        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
+        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Sette pezzi pop e tutti parlano di Bacharach&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/sette-pezzi-pop-e-tutti-parlano-di-bacharach</link>
+        <description>Nell’ambito del Torino Jazz Festival,  presentazione del libro di Biagio Bagini</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>English conversations: speak with confidence in everyday life</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-conversations-speak-with-confidence-in-everyday-life-0</link>
+        <description>Migliora il tuo inglese parlato per la vita di tutti i giorni</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La tana delle storie</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-tana-delle-storie-2</link>
+        <description>Letture ad alta voce per bambine/i da 0-6 anni e per le loro famiglie</description>
+        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La robotica di servizio: tecnologie al servizio della “Signora Maria”</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/la-robotica-di-servizio-tecnologie-al-servizio-della-signora-maria</link>
+        <description>Conferenza nell&#x27;ambito di Biennale Tecnologia 2026</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sintoniza tu español</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sintoniza-tu-espanol</link>
+        <description>Corso di spagnolo - livello intermedio</description>
+        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Torino la mia città</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-3</link>
+        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Nel marsupio della storia&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/nel-marsupio-della-storia</link>
+        <description>Presentazione del libro di Maria Maria Abbebù Viarengo</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Occhi e scarabocchi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/occhi-e-scarabocchi</link>
+        <description>Laboratorio di arte urbana per Vallette e Lucento</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Coccole e libri</title>
@@ -29,54 +77,6 @@
         <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations-0</link>
         <description>Conversazioni tematiche in lingua inglese</description>
         <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La robotica di servizio: tecnologie al servizio della “Signora Maria”</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/conferenze/la-robotica-di-servizio-tecnologie-al-servizio-della-signora-maria</link>
-        <description>Conferenza nell&#x27;ambito di Biennale Tecnologia 2026</description>
-        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>&quot;Nel marsupio della storia&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/nel-marsupio-della-storia</link>
-        <description>Presentazione del libro di Maria Maria Abbebù Viarengo</description>
-        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sintoniza tu español</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sintoniza-tu-espanol</link>
-        <description>Corso di spagnolo - livello intermedio</description>
-        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Torino la mia città</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-3</link>
-        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>C’est dingue… mais on bavarde encore!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
-        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Vieni a giocare a burraco con noi!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-giocare-a-burraco-con-noi-0</link>
-        <description>Incontri settimanali di carte e socialità</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Favolando a quattro ruote</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-a-quattro-ruote</link>
-        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
-        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>&quot;Sette pezzi pop e tutti parlano di Bacharach&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-gli-autori/sette-pezzi-pop-e-tutti-parlano-di-bacharach</link>
-        <description>Nell’ambito del Torino Jazz Festival,  presentazione del libro di Biagio Bagini</description>
-        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
