@@ -7,58 +7,10 @@
     <language>it-it</language>
 
     <item>
-        <title>Nello specchio di Gaza</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mostre/nello-specchio-di-gaza</link>
-        <description>Mostra a cura  a cura di @RTINSIDE, Scuola Secondaria Matteotti, Scuola per la Pace Torino e Piemonte</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Johannes Vermeer nel Fondo &quot;Irene ed Emilio Clara&quot;</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostre/johannes-vermeer-nel-fondo-irene-ed-emilio-clara</link>
         <description>Mostra di libri sul pittore olandese e selezione di volumi d’arte che inquadrano  il suo periodo storico e artistico</description>
         <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Dal verso al colore: leggere con gli occhi della pittura</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/dal-verso-al-colore-leggere-con-gli-occhi-della-pittura</link>
-        <description>Cinque incontri per chi desidera leggere con occhi nuovi, dipingere con la mente e ritrovare, attraverso l&#x27;arte, il piacere profondo della parola e dell&#x27;immaginazione condivisa.</description>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>C’est dingue… mais on bavarde encore!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
-        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La tana delle storie</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-tana-delle-storie-2</link>
-        <description>Letture ad alta voce per bambine/i da 0-6 anni e per le loro famiglie</description>
-        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Vieni a giocare a burraco con noi!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-giocare-a-burraco-con-noi-0</link>
-        <description>Incontri settimanali di carte e socialità</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Favolando a quattro ruote</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-a-quattro-ruote</link>
-        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
-        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Scacchi in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
-        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sintoniza tu español</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sintoniza-tu-espanol</link>
-        <description>Corso di spagnolo - livello intermedio</description>
-        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Are you ready?</title>
@@ -67,16 +19,64 @@
         <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>English conversations: speak with confidence in everyday life</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/english-conversations-speak-with-confidence-in-everyday-life-0</link>
-        <description>Migliora il tuo inglese parlato per la vita di tutti i giorni</description>
+        <title>Scacchi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Coccole e libri</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/coccole-e-libri-1</link>
+        <description>Incontri per donne in gravidanza e bambine e bambini fino a 1 anno</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lunedì da favola</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lunedi-da-favola</link>
+        <description>Letture per bambini e bambine dai 3 a 10 anni</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sintoniza tu español</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/sintoniza-tu-espanol</link>
+        <description>Corso di spagnolo - livello intermedio</description>
+        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Thematic Conversations</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/thematic-conversations-0</link>
+        <description>Conversazioni tematiche in lingua inglese</description>
         <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Letizia Battaglia: la forza vitale in una macchina fotografica</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/concerti-e-spettacoli/letizia-battaglia-la-forza-vitale-in-una-macchina-fotografica</link>
-        <description>Per &quot;Salone OFF &quot; reading teatrale con Marvi del Pozzo e Alessandro Piron</description>
-        <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+        <title>La tana delle storie</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/la-tana-delle-storie-2</link>
+        <description>Letture ad alta voce per bambine/i da 0-6 anni e per le loro famiglie</description>
+        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>C’est dingue… mais on bavarde encore!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/cest-dingue-mais-on-bavarde-encore-2</link>
+        <description>Conversazioni in lingua francese - livello intermedio e avanzato</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vieni a giocare a burraco con noi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/vieni-a-giocare-a-burraco-con-noi-0</link>
+        <description>Incontri settimanali di carte e socialità</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Torino la mia città</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/corsi-e-laboratori/torino-la-mia-citta-3</link>
+        <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Favolando a quattro ruote</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/favolando-a-quattro-ruote</link>
+        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
+        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
