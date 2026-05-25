@@ -25,12 +25,6 @@
         <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>I libri colorano i sogni</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/i-libri-colorano-i-sogni</link>
-        <description>Le storie prendono vita nei saloni di Villa della Regina. Laboratorio in collaborazione con le BCT</description>
-        <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>&quot;Pagine in Movimento&quot; alla Primo Levi</title>
         <link>https://bct.comune.torino.it/eventi-attivita/gruppi-di-lettura/pagine-in-movimento-alla-primo-levi</link>
         <description>Gruppo di lettura a cura delle ACLI Torino in collaborazione con  BookPostino</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/letture-ad-alta-voce/lunedi-da-favola</link>
         <description>Letture per bambini e bambine dai 3 a 10 anni</description>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Scacchi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
