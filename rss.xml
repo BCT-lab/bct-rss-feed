@@ -31,22 +31,10 @@
         <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Open House Torino - Biblioteca Natalia Ginzburg</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/open-house-torino-biblioteca-natalia-ginzburg</link>
-        <description>Due giorni di visite guidate a case palazzi e... biblioteche</description>
-        <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Mostra del corso &quot;Metamorfosi di carta&quot;</title>
         <link>https://bct.comune.torino.it/eventi-attivita/mostra-del-corso-metamorfosi-di-carta</link>
         <description>Lavori degli allievi ed allieve del corso 2025/2026 della Biblioteca Civica &quot;Cascina Marchesa&quot;</description>
         <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Open House Torino - Borgata Mirafiori e Bela Rosin</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/open-house-torino-borgata-mirafiori-e-bela-rosin</link>
-        <description>Due giorni di visite guidate a case palazzi e... biblioteche</description>
-        <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>&quot;Svegliarsi adulti. Vita di Sandro Delmastro,…</title>
@@ -77,6 +65,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/ludwig-van-beethoven-come-una-preghiera</link>
         <description>Conferenza a cura di Roberto Chirici, pianista e musicologo</description>
         <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lunedì da favola</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/lunedi-da-favola</link>
+        <description>Letture per bambini e bambine dai 3 a 10 anni</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Scacchi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
