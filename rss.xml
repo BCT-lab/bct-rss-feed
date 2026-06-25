@@ -13,18 +13,6 @@
         <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Il filo che ci unisce</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/il-filo-che-ci-unisce-1</link>
-        <description>Laboratorio di ferri e uncinetto</description>
-        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sportello digit@le</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/sportello-digitle-0</link>
-        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
-        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Aspettando la Carluccio</title>
         <link>https://bct.comune.torino.it/eventi-attivita/aspettando-la-carluccio-0</link>
         <description>Un pomeriggio dedicato ai libri e alla lettura presso la Piscina di Trecate</description>
@@ -77,6 +65,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/libri-book-club-biblioteca-geisser</link>
         <description>Gruppo di lettura con proposte letterarie under 30 e aperto a tutti</description>
         <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Origami alla Biblioteca civica Pavese</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/origami-alla-biblioteca-civica-pavese</link>
+        <description>Laboratorio sull&#x27;arte orientale di piegare la carta</description>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-12</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
+        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
