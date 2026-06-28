@@ -19,12 +19,6 @@
         <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Biblioteca fantasma</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/biblioteca-fantasma</link>
-        <description>Workshop a pagamento cura di Print Club Torino</description>
-        <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Geisser Gametime</title>
         <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
         <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
@@ -37,28 +31,10 @@
         <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Letture dall&#x27;Asia</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/letture-dallasia-29</link>
-        <description>A giugno leggiamo: &quot;Mare di papaveri&quot;, di Amitav Ghosh</description>
-        <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Lib(ə)ri Book Club - I ragazzi e le ragazze di Utøya</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/libri-book-club-i-ragazzi-e-le-ragazze-di-utoya</link>
-        <description>Gruppo di lettura con proposte letterarie under 30 e aperto a tutti</description>
-        <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Passeggiate Botaniche</title>
         <link>https://bct.comune.torino.it/eventi-attivita/passeggiate-botaniche</link>
         <description>Esplorazioni vegetali in quartiere</description>
         <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Potenziamento della lingua araba</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/potenziamento-della-lingua-araba</link>
-        <description>Incontri di potenziamento della lingua araba per bambine/i e ragazze/i dai 6 ai 14 anni.</description>
-        <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Storie da raccontare</title>
@@ -67,16 +43,40 @@
         <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Voci di papà</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/voci-di-papa-1</link>
-        <description>Storie lette ad alta voce da un papà  (0-3 anni)</description>
-        <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Favolando a quattro ruote</title>
         <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote</link>
         <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
         <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>La tana delle storie</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/la-tana-delle-storie-2</link>
+        <description>Letture ad alta voce per bambine/i da 0-6 anni e per le loro famiglie</description>
+        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Scacchi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sportelli psico-educativi &quot;Ecologie di cura&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/sportelli-psico-educativi-ecologie-di-cura</link>
+        <description>Un posto in cui parlare, senza giudizio, gratuito e anonimo</description>
+        <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storie Piccine sul Bibliobus 1</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/storie-piccine-sul-bibliobus-1</link>
+        <description>Letture per bambine/i alla sosta di piazza Montale</description>
+        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Thematic Conversations</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/thematic-conversations-0</link>
+        <description>Conversazioni tematiche in lingua inglese</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
