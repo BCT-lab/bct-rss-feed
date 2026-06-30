@@ -19,12 +19,6 @@
         <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>La tana delle storie</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/la-tana-delle-storie-2</link>
-        <description>Letture ad alta voce per bambine/i da 0-6 anni e per le loro famiglie</description>
-        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Scacchi in biblioteca</title>
         <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
         <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
@@ -41,12 +35,6 @@
         <link>https://bct.comune.torino.it/eventi-attivita/storie-piccine-sul-bibliobus-1</link>
         <description>Letture per bambine/i alla sosta di piazza Montale</description>
         <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Thematic Conversations</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/thematic-conversations-0</link>
-        <description>Conversazioni tematiche in lingua inglese</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Torino la mia città</title>
@@ -77,6 +65,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/fili-tra-le-pagine</link>
         <description>Laboratorio di manualità e lettura</description>
         <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lavoriamo a maglia... e non solo!!!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/lavoriamo-a-maglia-e-non-solo-5</link>
+        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-9</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
