@@ -7,46 +7,16 @@
     <language>it-it</language>
 
     <item>
-        <title>&quot;Ti scriverò ogni domenica&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/ti-scrivero-ogni-domenica</link>
-        <description>&quot;Amore e follia in manicomio&quot; nel nuovo romanzo di Rosanna Coluccia</description>
-        <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+        <title>Tutta un&#x27;altra musica</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/tutta-unaltra-musica</link>
+        <description>Tutti i giorni alla Biblioteca Cascina Marchesa ti aspetta tutta un&#x27;altra musica</description>
+        <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>BiblioPlay: giochi in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/biblioplay-giochi-in-biblioteca-5</link>
-        <description>Ogni giovedì pomeriggio dalle 17 alle 19  giochi da tavolo per bambini/e e ragazzi/e dai 4 anni in su.</description>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
-        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-12</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Scacchi in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
-        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
-        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Segnali Gentili</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/segnali-gentili</link>
-        <description>Laboratorio per bambine/i dai 5 ai 10 anni</description>
-        <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sportello digit@le</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/sportello-digitle-1</link>
-        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
-        <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+        <title>Con le famiglie a Mirafiori Sud. L&#x27;angolo delle…</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/con-le-famiglie-a-mirafiori-sud-langolo-delle-storie</link>
+        <description>Letture ad alta voce per immaginare e crescere. nell’ambito del progetto &quot;Nutrirsi di Cultura 0-6&quot;</description>
+        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Favolando a quattro ruote</title>
@@ -57,7 +27,7 @@
     <item>
         <title>Papillomavirus: smontiamo i miti, costruiamo la…</title>
         <link>https://bct.comune.torino.it/eventi-attivita/papillomavirus-smontiamo-i-miti-costruiamo-la-prevenzione</link>
-        <description>Conferenza A cura di CICAP Piemonte, in collaborazione con la Fondazione Umberto Veronesi.</description>
+        <description>Conferenza a cura di CICAP Piemonte, in collaborazione con la Fondazione Umberto Veronesi.</description>
         <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -65,6 +35,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/passaporto-del-piccolo-lettore</link>
         <description>Quattro incontri per leggere e ascoltare storie (da 6 a 10 anni)</description>
         <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
+        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Giochiamo insieme?</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/giochiamo-insieme-0</link>
+        <description>Un sabato in biblioteca dedicato ai giochi da tavolo</description>
+        <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>La mossa del lettore</title>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/scacco-destate-in-biblioteca</link>
         <description>Vieni a giocare con la Società Scacchistica Torinese</description>
         <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Pagine in Movimento&quot; alla Primo Levi</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/pagine-in-movimento-alla-primo-levi</link>
+        <description>Gruppo di lettura a cura delle ACLI Torino in collaborazione con  BookPostino</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Favolando a quattro ruote</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote</link>
+        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
+        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Scacchi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/scacchi-in-biblioteca</link>
+        <description>Scacchiere e scacchi ti aspettano alla Biblioteca Guidetti Serra per partite e sfide entusiasmanti</description>
+        <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
