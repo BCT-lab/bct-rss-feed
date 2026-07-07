@@ -13,30 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
-        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Giochiamo insieme?</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/giochiamo-insieme-0</link>
-        <description>Un sabato in biblioteca dedicato ai giochi da tavolo</description>
-        <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La mossa del lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-1</link>
-        <description>Scopriamo insieme il mondo degli scacchi</description>
-        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Scacco d&#x27;estate in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/scacco-destate-in-biblioteca</link>
-        <description>Vieni a giocare con la Società Scacchistica Torinese</description>
-        <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>&quot;Pagine in Movimento&quot; alla Primo Levi</title>
         <link>https://bct.comune.torino.it/eventi-attivita/pagine-in-movimento-alla-primo-levi</link>
         <description>Gruppo di lettura a cura delle ACLI Torino in collaborazione con  BookPostino</description>
@@ -55,12 +31,6 @@
         <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Se io fossi il Sindaco</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/se-io-fossi-il-sindaco-0</link>
-        <description>Letture per bambine e bambini alla sosta del Bibliobus 3</description>
-        <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Torino la mia città</title>
         <link>https://bct.comune.torino.it/eventi-attivita/torino-la-mia-citta-4</link>
         <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
@@ -77,6 +47,36 @@
         <link>https://bct.comune.torino.it/eventi-attivita/in-giro-per-torino-luci-luoghi-persone</link>
         <description>Presentazione del libro fotografico di Pierpaolo Maria Anselmetti</description>
         <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Cantiamo insieme!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/cantiamo-insieme-1</link>
+        <description>Laboratorio di canto per bambini e bambine dai 6 ai 12 anni</description>
+        <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lavoriamo a maglia... e non solo!!!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/lavoriamo-a-maglia-e-non-solo-5</link>
+        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Manodopera | cinema all&#x27;aperto</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/manodopera-cinema-allaperto</link>
+        <description>Proiezione gratuita nell&#x27;ambito della rassegna cinematografica Mondi Lontani Mondi Vicini</description>
+        <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Spazio studio</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/spazio-studio</link>
+        <description>Supporto per studenti dagli 11 ai 18 anni</description>
+        <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storie Piccine sul Bibliobus</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/storie-piccine-sul-bibliobus</link>
+        <description>Alla sosta di via Arquata 22, tutti i martedì alle 10.30</description>
+        <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
