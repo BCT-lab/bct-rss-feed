@@ -13,34 +13,10 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Favolando a quattro ruote</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote-0</link>
-        <description>Letture ad alta voce di albi illustrati sul  Bibliobus (sosta di strada Altessano 43)</description>
-        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-13</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Passaporto del piccolo lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/passaporto-del-piccolo-lettore</link>
-        <description>Quattro incontri per leggere e ascoltare storie (da 6 a 10 anni)</description>
-        <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Geisser Gametime</title>
         <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
         <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
         <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Giochiamo insieme?</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/giochiamo-insieme-0</link>
-        <description>Un sabato in biblioteca dedicato ai giochi da tavolo</description>
-        <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>La mossa del lettore</title>
@@ -77,6 +53,30 @@
         <link>https://bct.comune.torino.it/eventi-attivita/torino-la-mia-citta-4</link>
         <description>Impariamo l&#x27;italiano, diventiamo cittadine</description>
         <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vieni a giocare a burraco con noi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/vieni-a-giocare-a-burraco-con-noi-0</link>
+        <description>Incontri settimanali di carte e socialità</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Cantiamo insieme!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/cantiamo-insieme-1</link>
+        <description>Laboratorio di canto per bambini e bambine dai 6 ai 12 anni</description>
+        <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Fili tra le pagine</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/fili-tra-le-pagine</link>
+        <description>Laboratorio di manualità e lettura</description>
+        <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lavoriamo a maglia... e non solo!!!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/lavoriamo-a-maglia-e-non-solo-5</link>
+        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
