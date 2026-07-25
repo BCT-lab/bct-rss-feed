@@ -13,24 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>BiblioPlay: giochi in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/biblioplay-giochi-in-biblioteca-5</link>
-        <description>Ogni giovedì pomeriggio dalle 17 alle 19  giochi da tavolo per bambini/e e ragazzi/e dai 4 anni in su.</description>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
-        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-12</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Favolando a quattro ruote</title>
         <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote-0</link>
         <description>Letture ad alta voce di albi illustrati sul  Bibliobus (sosta di strada Altessano 43)</description>
@@ -43,16 +25,16 @@
         <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Passaporto del piccolo lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/passaporto-del-piccolo-lettore</link>
-        <description>Quattro incontri per leggere e ascoltare storie (da 6 a 10 anni)</description>
-        <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Fanzine delle cose minime</title>
         <link>https://bct.comune.torino.it/eventi-attivita/fanzine-delle-cose-minime</link>
         <description>Workshop a pagamento cura di Print Club Torino</description>
         <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
+        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>La mossa del lettore</title>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote</link>
         <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
         <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vieni a giocare a burraco con noi!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/vieni-a-giocare-a-burraco-con-noi-0</link>
+        <description>Incontri settimanali di carte e socialità</description>
+        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Finale allegro&quot;: film di Emanuela Piovano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/finale-allegro-film-di-emanuela-piovano</link>
+        <description>Proiezione nell&#x27;ambito della rassegna Cinema in famiglia</description>
+        <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Cantiamo insieme!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/cantiamo-insieme-1</link>
+        <description>Laboratorio di canto per bambini e bambine dai 6 ai 12 anni</description>
+        <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
