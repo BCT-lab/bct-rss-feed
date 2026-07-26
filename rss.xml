@@ -13,24 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Favolando a quattro ruote</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote-0</link>
-        <description>Letture ad alta voce di albi illustrati sul  Bibliobus (sosta di strada Altessano 43)</description>
-        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-13</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Fanzine delle cose minime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/fanzine-delle-cose-minime</link>
-        <description>Workshop a pagamento cura di Print Club Torino</description>
-        <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Geisser Gametime</title>
         <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
         <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
@@ -41,12 +23,6 @@
         <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-1</link>
         <description>Scopriamo insieme il mondo degli scacchi</description>
         <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Storie da raccontare</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/storie-da-raccontare-11</link>
-        <description>Letture ad alta voce per bambine/i, 0-6 anni</description>
-        <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Bere l’acqua del rubinetto</title>
@@ -77,6 +53,30 @@
         <link>https://bct.comune.torino.it/eventi-attivita/cantiamo-insieme-1</link>
         <description>Laboratorio di canto per bambini e bambine dai 6 ai 12 anni</description>
         <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Fili tra le pagine</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/fili-tra-le-pagine</link>
+        <description>Laboratorio di manualità e lettura</description>
+        <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lavoriamo a maglia... e non solo!!!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/lavoriamo-a-maglia-e-non-solo-5</link>
+        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>L’angolo del thè</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/langolo-del-the-0</link>
+        <description>Per &quot;La Cultura dietro l&#x27;Angolo&quot;. Laboratorio sensoriale sulle cucine africane, a cura di Associazione Renken…</description>
+        <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Manga Time in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/manga-time-in-biblioteca</link>
+        <description>Parliamo di fumetti giapponesi...e non solo!</description>
+        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
