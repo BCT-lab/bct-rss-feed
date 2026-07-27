@@ -13,18 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
-        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La mossa del lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-1</link>
-        <description>Scopriamo insieme il mondo degli scacchi</description>
-        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Bere l’acqua del rubinetto</title>
         <link>https://bct.comune.torino.it/eventi-attivita/bere-lacqua-del-rubinetto</link>
         <description>Per &quot;La Cultura dietro l&#x27;Angolo&quot;.  Incontro tenuto dai pilot del museo MAcA -Museo A come Ambiente</description>
@@ -73,10 +61,22 @@
         <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-1</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Manga Time in biblioteca</title>
         <link>https://bct.comune.torino.it/eventi-attivita/manga-time-in-biblioteca</link>
         <description>Parliamo di fumetti giapponesi...e non solo!</description>
         <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Mille storie in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mille-storie-in-biblioteca-19</link>
+        <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
+        <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
