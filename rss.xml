@@ -13,24 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Bere l’acqua del rubinetto</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/bere-lacqua-del-rubinetto</link>
-        <description>Per &quot;La Cultura dietro l&#x27;Angolo&quot;.  Incontro tenuto dai pilot del museo MAcA -Museo A come Ambiente</description>
-        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Favolando a quattro ruote</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote</link>
-        <description>Letture ad alta voce di albi illustrati sul  Bibliobus  (sosta di via Scialoja - Mufant)</description>
-        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Vieni a giocare a burraco con noi!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/vieni-a-giocare-a-burraco-con-noi-0</link>
-        <description>Incontri settimanali di carte e socialità</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>&quot;Finale allegro&quot;: film di Emanuela Piovano</title>
         <link>https://bct.comune.torino.it/eventi-attivita/finale-allegro-film-di-emanuela-piovano</link>
         <description>Proiezione nell&#x27;ambito della rassegna Cinema in famiglia</description>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/mille-storie-in-biblioteca-19</link>
         <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
         <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sportello digit@le</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/sportello-digitle-2</link>
+        <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
+        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>BiblioPlay: giochi in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/biblioplay-giochi-in-biblioteca-5</link>
+        <description>Ogni giovedì pomeriggio dalle 17 alle 19  giochi da tavolo per bambini/e e ragazzi/e dai 4 anni in su.</description>
+        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
+        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
