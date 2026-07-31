@@ -13,24 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>BiblioPlay: giochi in biblioteca</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/biblioplay-giochi-in-biblioteca-5</link>
-        <description>Ogni giovedì pomeriggio dalle 17 alle 19  giochi da tavolo per bambini/e e ragazzi/e dai 4 anni in su.</description>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-2</link>
-        <description>Giochi da tavolo, giochi di ruolo e videogiochi in biblioteca</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-12</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Favolando a quattro ruote</title>
         <link>https://bct.comune.torino.it/eventi-attivita/favolando-a-quattro-ruote-0</link>
         <description>Letture ad alta voce di albi illustrati sul  Bibliobus (sosta di strada Altessano 43)</description>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/the-snow-goose-0</link>
         <description>Spettacolo a cura di Assemblea Teatro</description>
         <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un ricordo di Gian Paolo Ormezzano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/un-ricordo-di-gian-paolo-ormezzano</link>
+        <description>Con Angelo Scarafiotti e Marlene Pietropaoli</description>
+        <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>I giovedì delle madri. Mille giovedì in plaza de Mayo</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/i-giovedi-delle-madri-mille-giovedi-in-plaza-de-mayo</link>
+        <description>Spettacolo a cura di Assemblea Teatro</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Altre città invisibili&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/altre-citta-invisibili</link>
+        <description>Spettacolo a cura di Assemblea Teatro</description>
+        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
