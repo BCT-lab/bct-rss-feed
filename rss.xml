@@ -25,12 +25,6 @@
         <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Storybox - Immagini che parlano. Primo incontro</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/storybox-immagini-che-parlano-primo-incontro-0</link>
-        <description>Laboratorio a cura di Gallerie d&#x27;Italia - Torino</description>
-        <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Geisser Gametime</title>
         <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
         <description>Giochi da tavolo e videogiochi in biblioteca</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/taty-almeida-cittadina-onoraria-di-torino</link>
         <description>Incontro a cura di Assemblea Teatro</description>
         <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Odilia e le altre&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/odilia-e-le-altre</link>
+        <description>Spettacolo a cura di Assemblea Teatro</description>
+        <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
