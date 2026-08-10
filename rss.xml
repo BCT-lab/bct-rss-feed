@@ -13,30 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
-        <description>Giochi da tavolo e videogiochi in biblioteca</description>
-        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La mossa del lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-2</link>
-        <description>Scopriamo insieme il mondo degli scacchi</description>
-        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>&quot;The snow goose&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/the-snow-goose-0</link>
-        <description>Spettacolo a cura di Assemblea Teatro</description>
-        <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Un ricordo di Gian Paolo Ormezzano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/un-ricordo-di-gian-paolo-ormezzano</link>
-        <description>Con Angelo Scarafiotti e Marlene Pietropaoli</description>
-        <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>I giovedì delle madri. Mille giovedì in plaza de Mayo</title>
         <link>https://bct.comune.torino.it/eventi-attivita/i-giovedi-delle-madri-mille-giovedi-in-plaza-de-mayo</link>
         <description>Spettacolo a cura di Assemblea Teatro</description>
@@ -67,6 +43,12 @@
         <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>La mossa del lettore</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-2</link>
+        <description>Scopriamo insieme il mondo degli scacchi</description>
+        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>Sportello digit@le</title>
         <link>https://bct.comune.torino.it/eventi-attivita/sportello-digitle-2</link>
         <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/rais-1</link>
         <description>Spettacolo a cura di Assemblea Teatro</description>
         <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Tutte le donne del re&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/tutte-le-donne-del-re-2</link>
+        <description>Monologo di Marlene Pietropaoli</description>
+        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Donne controcorrente</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/donne-controcorrente</link>
+        <description>Incontri del gruppo di lettura &quot;La Città di Eufemia&quot; della Biblioteca del Centro Interculturale</description>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
+        <description>Giochi da tavolo e videogiochi in biblioteca</description>
+        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
