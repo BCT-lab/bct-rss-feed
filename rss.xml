@@ -13,12 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>I giovedì delle madri. Mille giovedì in plaza de Mayo</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/i-giovedi-delle-madri-mille-giovedi-in-plaza-de-mayo</link>
-        <description>Spettacolo a cura di Assemblea Teatro</description>
-        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>&quot;Altre città invisibili&quot;</title>
         <link>https://bct.comune.torino.it/eventi-attivita/altre-citta-invisibili</link>
         <description>Spettacolo a cura di Assemblea Teatro</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
         <description>Giochi da tavolo e videogiochi in biblioteca</description>
         <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-14</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
+        <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
