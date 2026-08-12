@@ -13,18 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>&quot;Altre città invisibili&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/altre-citta-invisibili</link>
-        <description>Spettacolo a cura di Assemblea Teatro</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Taty Almeida, cittadina onoraria di Torino</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/taty-almeida-cittadina-onoraria-di-torino</link>
-        <description>Incontro a cura di Assemblea Teatro</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>&quot;Odilia e le altre&quot;</title>
         <link>https://bct.comune.torino.it/eventi-attivita/odilia-e-le-altre</link>
         <description>Spettacolo a cura di Assemblea Teatro</description>
@@ -77,6 +65,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-14</link>
         <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
         <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Notti magiche. Quel sogno che comincia da…</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/notti-magiche-quel-sogno-che-comincia-da-bambino-0</link>
+        <description>Spettacolo a cura del Teatro degli Acerbi</description>
+        <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Il barone rampante&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/il-barone-rampante</link>
+        <description>Spettacolo a cura di Assemblea Teatro</description>
+        <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
