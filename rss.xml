@@ -13,12 +13,6 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>&quot;Il barone rampante&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/il-barone-rampante</link>
-        <description>Spettacolo a cura di Assemblea Teatro</description>
-        <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>L&#x27;ottava meraviglia. Rastelli giocoliere</title>
         <link>https://bct.comune.torino.it/eventi-attivita/lottava-meraviglia-rastelli-giocoliere</link>
         <description>Spettacolo a cura della Disagiata Distilleria Teatrale</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/non-dirmi-che-hai-paura-film-di-yasemin-samdereli</link>
         <description>Proiezione nell&#x27;ambito della rassegna Cinema in famiglia</description>
         <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storybox - Immagini che raccontano. Terzo incontro</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/storybox-immagini-che-raccontano-terzo-incontro-0</link>
+        <description>Laboratorio a cura di Gallerie d&#x27;Italia - Torino</description>
+        <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
