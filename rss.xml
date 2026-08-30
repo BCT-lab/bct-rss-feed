@@ -7,12 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>Tutta un&#x27;altra musica 🎸</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/tutta-unaltra-musica</link>
-        <description>Tutti i giorni alla Biblioteca Cascina Marchesa ti aspetta tutta un&#x27;altra musica</description>
-        <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Geisser Gametime</title>
         <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
         <description>Giochi da tavolo e videogiochi in biblioteca</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/aiuto-compiti-per-le-vacanze-estive</link>
         <description>Prima dell’inizio della scuola...  ti aiutiamo a finire i compiti!</description>
         <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;La ragazza che divenne staffetta&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/la-ragazza-che-divenne-staffetta</link>
+        <description>Presentazione del romanzo di Elisa Demeo. Per la rassegna &quot; Settembre d&#x27;autore e d&#x27;autrice&quot;</description>
+        <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
