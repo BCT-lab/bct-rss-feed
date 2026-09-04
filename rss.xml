@@ -7,36 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>Bere l’acqua del rubinetto</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/bere-lacqua-del-rubinetto-0</link>
-        <description>Per &quot;La Cultura dietro l&#x27;Angolo&quot;.  Incontro tenuto dai pilot del museo MAcA -Museo A come Ambiente</description>
-        <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
-        <description>Giochi da tavolo e videogiochi in biblioteca</description>
-        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Il meglio di Villa Amoretti</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/il-meglio-di-villa-amoretti</link>
-        <description>Letture ad alta voce per bambine e bambini (0-6 anni)</description>
-        <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Il volo delle fate</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/il-volo-delle-fate</link>
-        <description>Letture e racconti in via Negarville</description>
-        <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-14</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Aiuto compiti per le vacanze estive</title>
         <link>https://bct.comune.torino.it/eventi-attivita/aiuto-compiti-per-le-vacanze-estive</link>
         <description>Prima dell’inizio della scuola...  ti aiutiamo a finire i compiti!</description>
@@ -47,6 +17,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/la-ragazza-che-divenne-staffetta</link>
         <description>Presentazione del romanzo di Elisa Demeo. Per la rassegna &quot; Settembre d&#x27;autore e d&#x27;autrice&quot;</description>
         <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
+        <description>Giochi da tavolo e videogiochi in biblioteca</description>
+        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>La mossa del lettore</title>
@@ -67,16 +43,40 @@
         <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Mani in opera... con la macchina da cucire</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/mani-in-opera-con-la-macchina-da-cucire-0</link>
-        <description>Gruppo di incontro dedicato alle attività manuali</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>&quot;Il lupo non veste indaco&quot;</title>
         <link>https://bct.comune.torino.it/eventi-attivita/il-lupo-non-veste-indaco</link>
         <description>Presentazione del romanzo di Maria Antonietta Macciocu ed Ernesto Torta. Per la rassegna &quot;Settembre d&#x27;autore e d&amp;…</description>
         <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Pagine in Movimento&quot; alla Guidetti Serra</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/pagine-in-movimento-alla-guidetti-serra</link>
+        <description>Gruppo di lettura a cura delle ACLI Torino in collaborazione con  BookPostino</description>
+        <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Donne informate sui libri: sulle tracce di Bora</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/donne-informate-sui-libri-sulle-tracce-di-bora</link>
+        <description>Percorso per esplorare l’universo letterario di Ben Pastor.</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Il filo che ci unisce</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/il-filo-che-ci-unisce-2</link>
+        <description>Laboratorio di ferri e uncinetto</description>
+        <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>L’antico Egitto e Noi. Per tutti gli dei!</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/lantico-egitto-e-noi-per-tutti-gli-dei</link>
+        <description>Incontro e laboratorio con lo staff del Museo Egizio</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Mille storie in biblioteca</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mille-storie-in-biblioteca-20</link>
+        <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
+        <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
