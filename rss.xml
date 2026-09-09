@@ -7,18 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>Fili tra le pagine</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/fili-tra-le-pagine-0</link>
-        <description>Laboratorio di manualità e lettura</description>
-        <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Lavoriamo a maglia... e non solo!!!</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/lavoriamo-a-maglia-e-non-solo-6</link>
-        <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Aiuto compiti per le vacanze estive</title>
         <link>https://bct.comune.torino.it/eventi-attivita/aiuto-compiti-per-le-vacanze-estive</link>
         <description>Prima dell’inizio della scuola...  ti aiutiamo a finire i compiti!</description>
@@ -77,6 +65,18 @@
         <link>https://bct.comune.torino.it/eventi-attivita/sportello-digitle-2</link>
         <description>Un aiuto per imparare a usare SPID, CIE, email, app... e tanto altro!</description>
         <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Tutti in coro</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/tutti-in-coro-8</link>
+        <description>Concerto a cura dell&#x27;Unione Musicale per &quot;La Cultura dietro l&#x27;Angolo&quot;</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;I buoni&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/i-buoni</link>
+        <description>Tre incontri dedicati all&#x27;opera e alla memoria di Luca Rastello</description>
+        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
