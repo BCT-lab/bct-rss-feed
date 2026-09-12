@@ -7,12 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>Leggermente incontra Ota De Leonardis</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/leggermente-incontra-ota-de-leonardis</link>
-        <description>L&#x27;autrice presenta &quot;Preferirei di sì&quot; (DeriveApprodi, 2025) alla Casa del Quartiere Cecchi Point</description>
-        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Geisser Gametime</title>
         <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
         <description>Giochi da tavolo e videogiochi in biblioteca</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/lavoriamo-a-maglia-e-non-solo-6</link>
         <description>Incontri per scambiarsi tecniche e metodi impiegati nel lavoro a maglia</description>
         <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Mani in opera... con la macchina da cucire</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/mani-in-opera-con-la-macchina-da-cucire-0</link>
+        <description>Gruppo di incontro dedicato alle attività manuali</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
