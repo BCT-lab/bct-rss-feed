@@ -7,12 +7,6 @@
     <language>it-it</language>
 
     <item>
-        <title>&quot;La prima volta a... Torino. Diario intimo della…</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/la-prima-volta-a-torino-diario-intimo-della-citta-piemontese</link>
-        <description>Incontro con Loredana Cella, curatrice del volume</description>
-        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Fatti di... carta</title>
         <link>https://bct.comune.torino.it/eventi-attivita/fatti-di-carta-2</link>
         <description>Laboratorio sull&#x27;arte di piegare la carta</description>
@@ -77,6 +71,12 @@
         <link>https://bct.comune.torino.it/eventi-attivita/mille-storie-in-biblioteca-20</link>
         <description>Un magnifico viaggio nel mondo dei libri. Letture ad alta voce per bambine e bambini di tutte le età</description>
         <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Oltre l&#x27;orario</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/oltre-lorario</link>
+        <description>Doposcuola diffuso di comunità per ragazzi e ragazze dai 6 ai 13 anni.</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
