@@ -13,48 +13,6 @@
         <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>&quot;I Buoni&quot;</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/i-buoni</link>
-        <description>Tre incontri dedicati all&#x27;opera e alla memoria di Luca Rastello</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>ErrePomeriggi 2026</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/errepomeriggi-2026-0</link>
-        <description>Incontri musicali e presentazioni editoriali a cura dell&#x27;associazione Erremusica A.P.S.</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
-        <description>Giochi da tavolo e videogiochi in biblioteca</description>
-        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Il Circolo Della Corte</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/il-circolo-della-corte-0</link>
-        <description>Gruppo di lettura</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Incontri con l&#x27;autore: Francesco Bellarosa</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/incontri-con-lautore-francesco-bellarosa</link>
-        <description>Presentazione della raccolta &quot;Ananassi&quot; (Robin edizioni, 2025)</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-14</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Waiting for Nazra 2026</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/waiting-for-nazra-2026</link>
-        <description>Proiezione di cortometraggi vincitori del Nazra Palestine Short Film Festival</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Parliamo, leggiamo, scriviamo in Italiano</title>
         <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-15</link>
         <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
@@ -67,6 +25,12 @@
         <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+        <title>Geisser Gametime</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
+        <description>Giochi da tavolo e videogiochi in biblioteca</description>
+        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
         <title>La mossa del lettore</title>
         <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-2</link>
         <description>Scopriamo insieme il mondo degli scacchi</description>
@@ -76,6 +40,42 @@
         <title>Letture di baci: &quot;La baceria di Felice&quot;</title>
         <link>https://bct.comune.torino.it/eventi-attivita/letture-di-baci-la-baceria-di-felice</link>
         <description>Letture ad alta voce per bambini, bambine e le loro famiglie</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lib(ə)ri Book Club - Biblioteca civica Luigi Carluccio…</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/libri-book-club-biblioteca-civica-luigi-carluccio-calendario-2026-2027</link>
+        <description>Gruppo di lettura con proposte letterarie under 30 e aperto a tutti</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Metamorfosi di carta</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/metamorfosi-di-carta-6</link>
+        <description>Laboratorio guidato di origami e quilling</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Storie da raccontare</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/storie-da-raccontare-12</link>
+        <description>Letture ad alta voce per bambine/i, 0-6 anni</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Stregati dalla luna 2026</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/stregati-dalla-luna-2026</link>
+        <description>Apollo e Artemis. Ieri e oggi sulla Luna</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Tra le righe</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/tra-le-righe</link>
+        <description>Laboratorio dedicato alla progettazione di segnalibri, a cura di Print Club</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>TO Play. Il festival del gioco</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/to-play-il-festival-del-gioco-0</link>
+        <description>Le Biblioteche civiche torinesi al TO Play di Parco Dora</description>
         <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
