@@ -13,24 +13,6 @@
         <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Geisser Gametime</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3</link>
-        <description>Giochi da tavolo e videogiochi in biblioteca</description>
-        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>La mossa del lettore</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-2</link>
-        <description>Scopriamo insieme il mondo degli scacchi</description>
-        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Laboratorio di valorizzazione della lingua d&#x27;…</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/laboratorio-di-valorizzazione-della-lingua-dorigine</link>
-        <description>Per bambine/i e ragazze/i dai 6 ai 14 anni</description>
-        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>&quot;Dentro&quot;</title>
         <link>https://bct.comune.torino.it/eventi-attivita/dentro</link>
         <description>Incontro con Sandro Bonvissuto</description>
@@ -63,7 +45,7 @@
     <item>
         <title>Il Consultorio pediatrico nelle Biblioteche</title>
         <link>https://bct.comune.torino.it/eventi-attivita/il-consultorio-pediatrico-nelle-biblioteche-0</link>
-        <description>Conferenza nell&#x27;ambito della &quot;Settimana per l’Allattamento Materno&quot;</description>
+        <description>Nell&#x27;ambito della &quot;Settimana per l’Allattamento Materno&quot;</description>
         <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -77,6 +59,24 @@
         <link>https://bct.comune.torino.it/eventi-attivita/ecolabel-eu-0</link>
         <description>Una mostra dedicata al marchio pubblico ecologico Ecolabel</description>
         <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Il salotto della manualità</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/il-salotto-della-manualita-4</link>
+        <description>Uno spazio per condividere esperienze di creatività</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>&quot;Onora il padre e la madre&quot;</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/onora-il-padre-e-la-madre</link>
+        <description>Presentazione del romanzo di Veronica Marcelletti.</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Do you speak English? Yes, I do</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/do-you-speak-english-yes-i-do-4</link>
+        <description>Incontri di conversazione per chi conosce discretamente la lingua inglese</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
