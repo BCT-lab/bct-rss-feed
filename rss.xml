@@ -25,12 +25,6 @@
         <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Antoine de Saint-Exupéry e il Piccolo principe</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/antoine-de-saint-exupery-e-il-piccolo-principe</link>
-        <description>L&#x27;aviatore-scrittore e la sua creatura</description>
-        <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
         <title>Conversare in francese</title>
         <link>https://bct.comune.torino.it/eventi-attivita/conversare-in-francese-3</link>
         <description>Incontri per chi ha conoscenze di base della lingua e desidera coltivarle</description>
@@ -68,15 +62,21 @@
     </item>
     <item>
         <title>Parliamo, leggiamo, scriviamo in Italiano</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-15</link>
+        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
         <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-16</link>
         <description>Italiano per stranieri al Punto di servizio bibliotecario &quot;I ragazzi e alle ragazze  Utøya&quot;</description>
         <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Parliamo, leggiamo, scriviamo in Italiano</title>
-        <link>https://bct.comune.torino.it/eventi-attivita/parliamo-leggiamo-scriviamo-in-italiano-15</link>
-        <description>Per imparare o migliorare la conoscenza della lingua italiana</description>
-        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+        <title>Penny Wirton. Scuola di Italiano in via Negarville</title>
+        <link>https://bct.comune.torino.it/eventi-attivita/penny-wirton-scuola-di-italiano-in-via-negarville-0</link>
+        <description>Corsi di Italiano individuali e gratuiti con i volontari dell&#x27;Associazione Penny Wirton Torino</description>
+        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
 </channel>
 </rss>
